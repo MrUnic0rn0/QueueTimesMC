@@ -1,0 +1,8 @@
+name: QueueTimeMC
+version: '${project.version}'
+main: fr.mrunicorn.queuetimemc.QueueTimeMC
+api-version: 1.13
+load: STARTUP
+depend: [ PlaceHolderAPI ]
+authors: [ Mr_Unicorn_ ]
+description: Real-Time Queue TIme from all your favortie Theme Parks
