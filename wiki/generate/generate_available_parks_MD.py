@@ -1,7 +1,16 @@
 # -*- coding: utf-8 -*-
 
 import json
+import os
+
 import pycountry
+
+def generate_park(park_name,park_id):
+    f = open("../parks/"+park_name+".md", "w",encoding="utf-8")
+    f.write("# "+park_name + " : " + str(park_id))
+
+if not os.path.isdir('../parks'):
+    os.makedirs('../parks')
 
 f = open("../available_parks.md", "w",encoding="utf-8")
 f.write("# :roller_coaster: Available parks")
@@ -33,7 +42,8 @@ with open('parks.json', encoding='utf-8') as json_file:
         f.write("\n<summary>"+cur["flag"]+" "+cur["name"]+"</summary>")
         parks = sorted(cur["parks"], key=lambda x: x["name"])
         for park in parks:
-           f.write("\n<li><strong>" +str(park["id"]) +"</strong> : " +  park["name"]+"</li>" )
+           f.write("\n<li><strong>" +str(park["id"]) +"</strong> : [" +  park["name"]+"](parks/"+park["name"]+".md)</li>" )
+           generate_park(park["name"],park["id"])
         f.write("\n</details>")
         
         
