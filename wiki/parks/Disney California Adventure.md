@@ -1,1 +1,0 @@
-# Disney California Adventure : 17

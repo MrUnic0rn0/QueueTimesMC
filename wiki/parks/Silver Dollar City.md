@@ -1,1 +1,0 @@
-# Silver Dollar City : 10

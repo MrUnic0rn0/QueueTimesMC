@@ -1,1 +1,0 @@
-# Six Flags Hurricane Harbor, Jackson : 44

@@ -1,1 +1,0 @@
-# Six Flags Discovery Kingdom : 33

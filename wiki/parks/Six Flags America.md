@@ -1,1 +1,0 @@
-# Six Flags America : 42

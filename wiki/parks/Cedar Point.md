@@ -1,1 +1,0 @@
-# Cedar Point : 50
