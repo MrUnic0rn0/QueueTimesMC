@@ -1,1 +1,0 @@
-# Six Flags Great Adventure : 37

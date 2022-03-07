@@ -1,1 +1,0 @@
-# Hersheypark : 15

@@ -1,1 +1,0 @@
-# Gardaland : 12

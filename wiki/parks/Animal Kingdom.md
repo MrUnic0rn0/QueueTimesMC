@@ -1,1 +1,0 @@
-# Animal Kingdom : 8

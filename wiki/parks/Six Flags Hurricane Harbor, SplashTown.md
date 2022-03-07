@@ -1,1 +1,0 @@
-# Six Flags Hurricane Harbor, SplashTown : 296

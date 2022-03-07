@@ -1,1 +1,0 @@
-# Six Flags Over Georgia : 35

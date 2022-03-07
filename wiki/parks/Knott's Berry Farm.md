@@ -1,1 +1,0 @@
-# Knott's Berry Farm : 61

@@ -1,1 +1,0 @@
-# Six Flags Over Texas : 34
