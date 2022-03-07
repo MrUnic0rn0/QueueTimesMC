@@ -1,8 +1,18 @@
-name: QueueTimeMC
+name: QueueTimesMC
 version: '${project.version}'
-main: fr.mrunicorn.queuetimemc.QueueTimeMC
+main: fr.mrunicorn.queuetimesmc.QueueTimesMC
 api-version: 1.13
-load: STARTUP
-depend: [ PlaceHolderAPI ]
+
+depend: [ PlaceholderAPI ]
 authors: [ Mr_Unicorn_ ]
 description: Real-Time Queue TIme from all your favortie Theme Parks
+
+commands:
+  queuetimes:
+    description: "QueueTimesMC Command"
+    aliases: ["qt"]
+
+permissions:
+  queuetimes.*:
+    description: "Ability to use all QueueTimesMC commands"
+

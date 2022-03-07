@@ -1,9 +1,9 @@
-package fr.mrunicorn.queuetimemc.models;
+package fr.mrunicorn.queuetimesmc.models;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import fr.mrunicorn.queuetimemc.controllers.ParkController;
+import fr.mrunicorn.queuetimesmc.controllers.ParkController;
 
 import java.io.IOException;
 import java.io.InputStream;

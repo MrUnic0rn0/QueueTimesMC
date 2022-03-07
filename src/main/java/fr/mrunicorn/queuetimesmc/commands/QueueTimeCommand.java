@@ -1,4 +1,4 @@
-package fr.mrunicorn.queuetimemc.commands;
+package fr.mrunicorn.queuetimesmc.commands;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

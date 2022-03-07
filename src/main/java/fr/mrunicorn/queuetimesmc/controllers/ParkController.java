@@ -1,4 +1,4 @@
-package fr.mrunicorn.queuetimemc.controllers;
+package fr.mrunicorn.queuetimesmc.controllers;
 
 public class ParkController {
 

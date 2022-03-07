@@ -1,9 +1,9 @@
-package fr.mrunicorn.queuetimemc;
+package fr.mrunicorn.queuetimesmc;
 
-import fr.mrunicorn.queuetimemc.controllers.ParkController;
+import fr.mrunicorn.queuetimesmc.controllers.ParkController;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class QueueTimeMC extends JavaPlugin {
+public final class QueueTimesMC extends JavaPlugin {
     private ParkController controller;
 
     @Override
