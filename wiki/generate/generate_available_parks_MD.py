@@ -42,11 +42,8 @@ with open('parks.json', encoding='utf-8') as json_file:
         f.write("\n<summary>"+cur["flag"]+" "+cur["name"]+"</summary>")
         parks = sorted(cur["parks"], key=lambda x: x["name"])
         for park in parks:
-<<<<<<< HEAD
            f.write("\n<li><strong>" +str(park["id"]) +"</strong> : <a href=\"parks/"+ park["name"] +".md\">"+  park["name"]+"</a></li>" )
-=======
-           f.write("\n<li><strong>" +str(park["id"]) +"</strong> : [" +  park["name"]+"](parks/"+park["name"]+".md)</li>" )
->>>>>>> 65d79b78a820d113ab20924165499f350c2af3fc
+
            generate_park(park["name"],park["id"])
         f.write("\n</details>")
         
