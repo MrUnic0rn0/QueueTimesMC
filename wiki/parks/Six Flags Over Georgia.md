@@ -1,1 +1,56 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags Over Georgia : 35
+ - **Family Rides** 
+   - ACME Trucking Company  `%qt_35_3137%`
+   - CATWOMAN Whip `%qt_35_7330%`
+   - Daffy Duck Bucket Blasters `%qt_35_3177%`
+   - DC SUPER VILLAINS Swing `%qt_35_10340%`
+   - Hanson Cars `%qt_35_3144%`
+   - HARLEY QUINN™ Wild Whirl `%qt_35_3173%`
+   - Hurricane Harbor `%qt_35_3166%`
+   - Log Jamboree `%qt_35_3145%`
+   - Marthasville Railroad Station `%qt_35_3146%`
+   - Monster Mansion `%qt_35_3148%`
+   - POISON IVY Toxic Spin `%qt_35_7331%`
+   - Rabun Gap Railroad Station `%qt_35_3150%`
+   - The Batcopters  `%qt_35_3176%`
+   - THE JOKER Chaos Coaster `%qt_35_3172%`
+   - THE JOKER Funhouse Coaster `%qt_35_3159%`
+   - Thunder River `%qt_35_3162%`
+   - Wonder Woman Flight School  `%qt_35_3175%`
+---
+ - **Kids' Rides** 
+   - Dahlonega Mine Train `%qt_35_3138%`
+   - Looney Tunes Adventure Camp  `%qt_35_3171%`
+   - Riverview Carousel `%qt_35_3156%`
+   - Rockin’ Tug `%qt_35_3151%`
+   - Speedy Gonzales Speed Boats  `%qt_35_3179%`
+   - SUPERMAN: Tower of Power `%qt_35_3174%`
+   - Tweety’s Tweehouse `%qt_35_3157%`
+   - Up, Up and Away `%qt_35_3158%`
+   - Yosemite Sam Wacky Wagons  `%qt_35_3178%`
+---
+ - **Thrill Rides** 
+   - Acrophobia  `%qt_35_4691%`
+   - BATMAN: The Ride `%qt_35_3136%`
+   - Blue Hawk `%qt_35_3149%`
+   - Dare Devil Dive `%qt_35_3139%`
+   - Georgia Scorcher `%qt_35_3154%`
+   - Goliath `%qt_35_3142%`
+   - Great American Scream Machine `%qt_35_3155%`
+   - Justice League: Battle for Metropolis `%qt_35_3912%`
+   - Pandemonium `%qt_35_6267%`
+   - Sky Coaster `%qt_35_3153%`
+   - SkyScreamer `%qt_35_3161%`
+   - SUPERMAN: Ultimate Flight `%qt_35_3160%`
+   - The RIDDLER Mindbender `%qt_35_3147%`
+   - Tsunami Surge `%qt_35_3169%`
+   - Twisted Cyclone `%qt_35_5151%`
+---
+ - **Water Rides** 
+   - Bonzai Pipelines `%qt_35_3167%`
+   - Calypso Bay `%qt_35_3168%`
+   - Paradise Island `%qt_35_3164%`
+---
+ - **Shows** 
+---

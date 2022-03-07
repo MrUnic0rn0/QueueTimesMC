@@ -1,1 +1,50 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags Magic Mountain : 32
+ - **Family Rides** 
+   - Buccaneer `%qt_32_2888%`
+   - Canyon Blaster `%qt_32_2851%`
+   - Daffy’s Adventure Tours `%qt_32_2853%`
+   - Elmer's Weather Balloons `%qt_32_2848%`
+   - Grand American Carousel `%qt_32_2857%`
+   - Jammin’ Bumpers `%qt_32_8419%`
+   - Jet Stream `%qt_32_2858%`
+   - Justice League: Battle for Metropolis `%qt_32_3911%`
+   - Magic Flyer `%qt_32_2884%`
+   - Merrie Melodies Carousel `%qt_32_2860%`
+   - Pacific Speedway `%qt_32_8426%`
+   - Pepe LePew’s Tea Party `%qt_32_2862%`
+   - Road Runner Express `%qt_32_2864%`
+   - Roaring Rapids `%qt_32_2865%`
+   - Scrambler `%qt_32_2867%`
+   - Swashbuckler `%qt_32_2870%`
+---
+ - **Kids' Rides** 
+   - Gold Rusher `%qt_32_2855%`
+   - Ninja `%qt_32_2861%`
+   - Speedy Gonzales Hot Rod Racers `%qt_32_2887%`
+   - Sylvester’s Pounce and Bounce `%qt_32_2871%`
+   - Taz’s Trucking Co.  `%qt_32_2873%`
+   - The Looney Tunes Lodge `%qt_32_2875%`
+   - Tweety’s Escape `%qt_32_2878%`
+   - Whistlestop Train `%qt_32_2886%`
+   - Yosemite Sam’s Flight School `%qt_32_2882%`
+---
+ - **Thrill Rides** 
+   - Apocalypse `%qt_32_2849%`
+   - BATMAN The Ride  `%qt_32_2850%`
+   - CraZanity `%qt_32_5147%`
+   - Dive Devil `%qt_32_2854%`
+   - Full Throttle `%qt_32_2883%`
+   - Goliath `%qt_32_2856%`
+   - LEX LUTHOR: Drop of Doom `%qt_32_2859%`
+   - Scream `%qt_32_2868%`
+   - SUPERMAN: Escape from Krypton `%qt_32_2869%`
+   - Tatsu `%qt_32_2872%`
+   - The New Revolution – Classic `%qt_32_8441%`
+   - THE RIDDLER’S Revenge `%qt_32_2876%`
+   - Twisted Colossus `%qt_32_2889%`
+   - Viper `%qt_32_2879%`
+   - West Coast Racers `%qt_32_6370%`
+   - WONDER WOMAN™ Flight of Courage `%qt_32_10135%`
+   - X2 `%qt_32_2881%`
+---

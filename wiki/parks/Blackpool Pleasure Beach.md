@@ -1,1 +1,42 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Blackpool Pleasure Beach : 273
+ - **Family Rides and Attractions** 
+   - Alice Ride `%qt_273_6390%`
+   - Derby Racer `%qt_273_6409%`
+   - Dodgems `%qt_273_6396%`
+   - Eddie Stobart convoy Ride `%qt_273_8849%`
+   - Flying Machines `%qt_273_6388%`
+   - Gallopers `%qt_273_8855%`
+   - Ghost Train `%qt_273_6402%`
+   - Grand Prix `%qt_273_6406%`
+   - Impossible `%qt_273_8857%`
+   - Pleasure Beach Express `%qt_273_8854%`
+   - River Caves `%qt_273_6410%`
+   - Wallace and Gromit `%qt_273_6389%`
+---
+ - **Nickelodeon** 
+   - Avatar Airbender `%qt_273_6404%`
+   - Backyardigans Pirate Treasure `%qt_273_8845%`
+   - Bikini Bottom Bus tour `%qt_273_8851%`
+   - Blue Flyer `%qt_273_8852%`
+   - Diegos Rainforest Rescue `%qt_273_8846%`
+   - Doras World Voyage `%qt_273_8847%`
+   - Fairy World Taxi Spin `%qt_273_6401%`
+   - Krusty Krab Order Up `%qt_273_8853%`
+   - Nickelodeon Streak `%qt_273_6394%`
+   - Rugrats Lost River `%qt_273_6408%`
+   - SpongeBob's Splash Bash `%qt_273_6400%`
+   - Wonder Pets Big Circus Bounce `%qt_273_8848%`
+---
+ - **Thrill Rides** 
+   - Avalanche `%qt_273_6391%`
+   - Grand National `%qt_273_6405%`
+   - Ice Blast `%qt_273_6399%`
+   - ICON `%qt_273_6411%`
+   - Infusion `%qt_273_6412%`
+   - Revolution `%qt_273_6403%`
+   - Skyforce `%qt_273_6393%`
+   - Steeplechase `%qt_273_7959%`
+   - The Big Dipper `%qt_273_8856%`
+   - The Big One `%qt_273_8850%`
+---

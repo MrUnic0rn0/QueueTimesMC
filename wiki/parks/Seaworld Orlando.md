@@ -1,1 +1,23 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Seaworld Orlando : 21
+ - **Sea of Legends** 
+   - Kraken® `%qt_21_6570%`
+---
+ - **Sea of Mystery** 
+   - Flamingo Paddle Boats `%qt_21_5958%`
+   - Mako® `%qt_21_6571%`
+---
+ - **Sea of Shallows** 
+   - Manta `%qt_21_6569%`
+---
+ - **Sesame Street** 
+   - Big Bird's Twirl 'N' Whirl `%qt_21_6450%`
+   - Cookie Drop! `%qt_21_6447%`
+   - Elmo's Choo Choo Train `%qt_21_6448%`
+   - Slimey's Slider `%qt_21_6451%`
+   - Sunny Day Carousel `%qt_21_10421%`
+   - Super Grover's Box Car Derby `%qt_21_6449%`
+---
+ - **Sea of Fun** 
+   - Infinity Falls® `%qt_21_6572%`
+---

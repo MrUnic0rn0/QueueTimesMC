@@ -1,1 +1,24 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Epcot : 5
+ - **World Celebration** 
+   - Disney & Pixar Short Film Festival `%qt_5_2495%`
+   - Journey Into Imagination With Figment `%qt_5_155%`
+   - Spaceship Earth `%qt_5_159%`
+---
+ - **World Discovery** 
+   - Guardians of the Galaxy: Cosmic Rewind `%qt_5_10093%`
+   - Mission: SPACE `%qt_5_158%`
+   - Test Track Presented by Chevrolet `%qt_5_160%`
+---
+ - **World Nature** 
+   - Awesome Planet `%qt_5_7323%`
+   - Living with the Land `%qt_5_156%`
+   - Soarin' `%qt_5_151%`
+   - The Seas with Nemo & Friends `%qt_5_153%`
+   - Turtle Talk With Crush `%qt_5_152%`
+---
+ - **World Showcase** 
+   - Frozen Ever After `%qt_5_2679%`
+   - Gran Fiesta Tour Starring The Three Caballeros `%qt_5_466%`
+   - O Canada! `%qt_5_829%`
+---

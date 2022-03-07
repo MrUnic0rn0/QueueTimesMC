@@ -1,1 +1,25 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags Hurricane Harbor, SplashTown : 296
+ - **Family Rides** 
+   - Bamboo Chutes `%qt_296_9853%`
+   - Big Kahuna `%qt_296_9854%`
+   - Hurricane Bay `%qt_296_9859%`
+   - Paradise River `%qt_296_9861%`
+   - Runaway Rapids `%qt_296_9870%`
+   - Stingray Racer `%qt_296_9864%`
+   - Wahoo Wave `%qt_296_9868%`
+---
+ - **Kids' Rides** 
+   - Coconut Bay `%qt_296_9857%`
+   - Tree House `%qt_296_9866%`
+---
+ - **Thrill Rides** 
+   - Big Spin `%qt_296_9855%`
+   - Bonzai Pipelines `%qt_296_9856%`
+   - FlowRider `%qt_296_9858%`
+   - Paradise Plunge `%qt_296_9860%`
+   - RipQurl `%qt_296_9863%`
+   - Tornado `%qt_296_9865%`
+   - Vortex `%qt_296_9867%`
+   - Wala Wala Falls `%qt_296_9869%`
+---

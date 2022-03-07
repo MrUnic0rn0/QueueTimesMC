@@ -1,1 +1,30 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags White Water, Atlanta : 46
+ - **Family Rides** 
+   - Buccaneer Bay `%qt_46_3653%`
+   - Captain Kid’s Cove `%qt_46_3641%`
+   - Lilypad Crossing `%qt_46_3643%`
+   - Little Hooch River `%qt_46_3647%`
+---
+ - **Kids' Rides** 
+   - Bahama Bob Slide `%qt_46_3637%`
+   - Black River Falls `%qt_46_3639%`
+   - Body Flumes `%qt_46_9806%`
+   - Dragon’s Tail `%qt_46_3642%`
+   - Lizard’s Tail `%qt_46_3644%`
+   - Mutiny Chute `%qt_46_3645%`
+   - Run-A-Way River `%qt_46_3646%`
+   - Skull Island `%qt_46_4708%`
+   - Tidal Wave `%qt_46_3650%`
+   - Wahoo Racer `%qt_46_3657%`
+---
+ - **Thrill Rides** 
+   - Atlanta Ocean Wave Pool `%qt_46_3636%`
+   - Bermuda Triangle `%qt_46_3638%`
+   - Caribbean Plunge `%qt_46_3640%`
+   - Dive Bomber `%qt_46_3656%`
+   - Gulf Coast Screamer `%qt_46_3655%`
+   - Python Plunge `%qt_46_9811%`
+   - Tornado `%qt_46_3651%`
+   - Typhoon Twister `%qt_46_3654%`
+---

@@ -1,1 +1,74 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags Over Texas : 34
+ - **Family Rides** 
+   - BATWING `%qt_34_3090%`
+   - Boomtown Depot `%qt_34_3091%`
+   - Casa Magnetica `%qt_34_8791%`
+   - Chaparral Antique Cars `%qt_34_3094%`
+   - Cloud Bouncer `%qt_34_3095%`
+   - Conquistador `%qt_34_3096%`
+   - El Aserradero `%qt_34_3099%`
+   - El Sombrero `%qt_34_3100%`
+   - Gunslinger `%qt_34_3121%`
+   - La Fiesta de las Tazas `%qt_34_3102%`
+   - Mini Mine Train `%qt_34_3104%`
+   - Oil Derrick `%qt_34_3106%`
+   - Roaring Rapids `%qt_34_3108%`
+   - Rodeo `%qt_34_3109%`
+   - Sidewinder `%qt_34_3112%`
+   - Silver Star Carousel `%qt_34_3113%`
+   - Six Flags Speedway Go Karts `%qt_34_3114%`
+   - Texas Depot `%qt_34_3119%`
+---
+ - **Kids' Rides** 
+   - Boot Scootin' `%qt_34_3092%`
+   - Bugs Bunny Boomtown `%qt_34_3128%`
+   - Bugs Bunny Cloud Bouncer `%qt_34_3118%`
+   - Caddo Lake Barge `%qt_34_3093%`
+   - Looney Tunes Adventure Camp `%qt_34_3130%`
+   - Marvin the Martian Space Rockets `%qt_34_3131%`
+   - Speedy Gonzales’ Truckin’ Across America `%qt_34_3115%`
+   - Sylvester & Tweety’s State Ferris Wheel `%qt_34_3117%`
+   - Taz Tornado Swings `%qt_34_3132%`
+   - Wile E. Coyote’s Grand Canyon Blaster `%qt_34_3124%`
+   - Yosemite Sam’s Texas Tea Cups `%qt_34_3126%`
+---
+ - **Thrill Rides** 
+   - AQUAMAN: Power Wave `%qt_34_8344%`
+   - BATMAN The Ride `%qt_34_3089%`
+   - CATWOMAN Whip  `%qt_34_3786%`
+   - Dive Bomber Alley `%qt_34_3098%`
+   - El Diablo `%qt_34_6228%`
+   - HARLEY QUINN Spinsanity `%qt_34_5156%`
+   - Judge Roy Scream `%qt_34_3101%`
+   - JUSTICE LEAGUE: Battle for Metropolis `%qt_34_3133%`
+   - La Vibora  `%qt_34_3103%`
+   - MR. FREEZE: Reverse Blast  `%qt_34_3105%`
+   - New Texas Giant `%qt_34_3120%`
+   - Pandemonium `%qt_34_3107%`
+   - Runaway Mine Train `%qt_34_3122%`
+   - Runaway Mountain `%qt_34_3110%`
+   - Shock Wave `%qt_34_3111%`
+   - SUPERMAN: Tower of Power `%qt_34_3116%`
+   - Texas SkyScreamer `%qt_34_3127%`
+   - The Joker `%qt_34_3914%`
+   - THE RIDDLER Revenge  `%qt_34_3785%`
+   - Titan `%qt_34_3123%`
+---
+ - **Seasonal Rides** 
+   - Art Of Torture `%qt_34_7206%`
+   - Curse Of Ra `%qt_34_7207%`
+   - Fear Forest `%qt_34_9408%`
+   - Freak Town `%qt_34_9406%`
+   - Johnson’s Creek Critter Corral `%qt_34_10280%`
+   - Killer Theater `%qt_34_9410%`
+   - LABSICS: CLASSIFIED `%qt_34_9405%`
+   - Looney Tunes SPOOKY TOWN `%qt_34_5137%`
+   - Piggy’s Blood Shed `%qt_34_9407%`
+   - Pirates of Speelunker Cave `%qt_34_10108%`
+   - Storytime with Mrs. Claus `%qt_34_10283%`
+   - The Do Drop Inn: Dead and Breakfast `%qt_34_9409%`
+   - Voodoo Swamp `%qt_34_3938%`
+---
+ - **Shows** 
+---

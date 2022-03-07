@@ -1,1 +1,56 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags Discovery Kingdom : 33
+ - **Family Rides** 
+   - Ark `%qt_33_2923%`
+   - Boardwalk Bumper Buggies `%qt_33_2893%`
+   - Cobra `%qt_33_2933%`
+   - Monkey Business `%qt_33_2904%`
+   - Monsoon Falls  `%qt_33_2905%`
+   - Rock Wall Climbing Challenge `%qt_33_2909%`
+   - Scat-A-Bout `%qt_33_2911%`
+   - THE PENGUIN `%qt_33_10329%`
+   - Thrilla Gorilla `%qt_33_4115%`
+   - Wave Swinger `%qt_33_2928%`
+   - White Water Safari  `%qt_33_2929%`
+---
+ - **Kids' Rides** 
+   - Acme Fun Factory `%qt_33_2891%`
+   - Air Penguins `%qt_33_2892%`
+   - Bugs’ Buccaneer `%qt_33_2894%`
+   - Congo Queen `%qt_33_2895%`
+   - Elmer’s Weather Balloon Service `%qt_33_2896%`
+   - Foghorn’s Seaport Railway `%qt_33_2897%`
+   - Frog Hopper `%qt_33_2898%`
+   - Merlin’s Seaside Tours `%qt_33_2902%`
+   - Nairobi’s Look Out Balloons `%qt_33_2906%`
+   - Pepe Le Pew’s Rafts of Romance `%qt_33_2907%`
+   - Road Runner Express `%qt_33_2908%`
+   - Safari Jeep Tours `%qt_33_2910%`
+   - Seaport Carousel `%qt_33_2912%`
+   - Seaside Railway `%qt_33_2913%`
+   - Splashwater Oasis `%qt_33_2916%`
+   - Splish Splash Zone `%qt_33_2917%`
+   - Sylvester’s Pounce & Bounce `%qt_33_10326%`
+   - Tava’s Elephant Parade `%qt_33_2920%`
+   - Taz’s Typhoon `%qt_33_2921%`
+   - Yosemite Sam’s Flight School `%qt_33_10335%`
+   - Zoe’s Tree House `%qt_33_10336%`
+---
+ - **Thrill Rides** 
+   - BATMAN: The Ride `%qt_33_6341%`
+   - Boomerang Coast-to-Coaster `%qt_33_2932%`
+   - Dare Devil Chaos Coaster `%qt_33_2935%`
+   - Kong `%qt_33_2900%`
+   - Medusa `%qt_33_2901%`
+   - Sidewinder Safari `%qt_33_10350%`
+   - SkyScreamer `%qt_33_2915%`
+   - SUPERMAN Ultimate Flight `%qt_33_2918%`
+   - THE FLASH Vertical Velocity `%qt_33_10331%`
+   - THE JOKER `%qt_33_2936%`
+   - Wonder Woman Lasso of Truth `%qt_33_3920%`
+---
+ - **Seasonal Rides** 
+   - Snow Walk `%qt_33_10356%`
+   - Toy Land `%qt_33_4416%`
+   - Winter Wonderlane `%qt_33_6320%`
+---

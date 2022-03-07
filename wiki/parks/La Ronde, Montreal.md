@@ -1,1 +1,39 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # La Ronde, Montreal : 48
+ - **Seasonal Rides** 
+   - Air Papillon `%qt_48_10469%`
+   - Aqua Twist `%qt_48_10470%`
+   - Autos Tamponneuses `%qt_48_10471%`
+   - Bateau Pirate `%qt_48_10472%`
+   - Boomerang `%qt_48_10502%`
+   - Catapulte `%qt_48_10473%`
+   - Chaos `%qt_48_10474%`
+   - Condor `%qt_48_10475%`
+   - Démon `%qt_48_10476%`
+   - Disco Ronde `%qt_48_10477%`
+   - Dragon `%qt_48_10478%`
+   - Ednör `%qt_48_10479%`
+   - Goliath `%qt_48_10480%`
+   - Joyeux Moussaillons `%qt_48_10481%`
+   - La Danse des Bestioles `%qt_48_10482%`
+   - La Grande Envolée `%qt_48_10483%`
+   - La Marche du Mille-pattes `%qt_48_10484%`
+   - Le Galopant `%qt_48_10485%`
+   - Manitou `%qt_48_10486%`
+   - Marais Enchanté `%qt_48_10487%`
+   - Minirail `%qt_48_10488%`
+   - Monsieur L’Arbre `%qt_48_10489%`
+   - Monstre `%qt_48_10490%`
+   - Orbite `%qt_48_10491%`
+   - Pommes d’Api `%qt_48_10492%`
+   - Sling Shot `%qt_48_10493%`
+   - Spirale `%qt_48_10503%`
+   - Splash `%qt_48_10500%`
+   - Tchou-Tchou `%qt_48_10494%`
+   - Titan `%qt_48_10501%`
+   - Toboggan Nordique `%qt_48_10495%`
+   - Tour de Ville `%qt_48_10496%`
+   - Tourbillon ! `%qt_48_10497%`
+   - Vampire `%qt_48_10498%`
+   - Vertigo `%qt_48_10499%`
+---

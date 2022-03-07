@@ -1,1 +1,22 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Universal Volcano Bay : 67
+ - **Others** 
+   - Honu of Honu ika Moana™ `%qt_67_8325%`
+   - ika Moana of Honu ika Moana™ `%qt_67_8338%`
+   - Kala & Tai Nui Serpentine Body Slides™ `%qt_67_8334%`
+   - Ko'okiri Body Plunge™ `%qt_67_8337%`
+   - Kopiko Wai Winding River™ `%qt_67_8339%`
+   - Krakatau™ Aqua Coaster `%qt_67_8336%`
+   - Maku of Maku Puihi Round Raft Rides™ `%qt_67_8327%`
+   - Ohno of the Ohyah and Ohno Drop Slides™ `%qt_67_8341%`
+   - Ohyah of the Ohyah and Ohno Drop Slides™ `%qt_67_8340%`
+   - Puihi of Maku Puihi Round Raft Rides™ `%qt_67_8343%`
+   - Puka Uli Lagoon™ `%qt_67_8328%`
+   - Punga Racers™ `%qt_67_8333%`
+   - Raki of Taniwha Tubes™ `%qt_67_8326%`
+   - Runamukka Reef™ `%qt_67_8329%`
+   - TeAwa The Fearless River™ `%qt_67_8335%`
+   - The Reef `%qt_67_8330%`
+   - Tonga of Taniwha Tubes™ `%qt_67_8331%`
+   - Tot Tiki Reef™ `%qt_67_8332%`
+   - Waturi Beach `%qt_67_8342%`

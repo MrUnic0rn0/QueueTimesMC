@@ -1,1 +1,44 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Parc Astérix : 9
+ - **Others** 
+   - Aérodynamix `%qt_9_8207%`
+   - Attention Menhir ! `%qt_9_6457%`
+   - Discobélix `%qt_9_5643%`
+   - Enigmatix `%qt_9_8206%`
+   - Epidemaïs Croisière `%qt_9_5653%`
+   - Etamine `%qt_9_8205%`
+   - Goudurix `%qt_9_5651%`
+   - Hydrolix `%qt_9_6363%`
+   - L'Aérolaf `%qt_9_8217%`
+   - L'Aventure Astérix `%qt_9_8216%`
+   - L'Escadrille des As `%qt_9_8201%`
+   - L'Hydre de Lerne `%qt_9_5659%`
+   - L'Oxygénarium `%qt_9_5657%`
+   - La Galère `%qt_9_5646%`
+   - La Petite Tempête `%qt_9_8189%`
+   - La Rivière d'Elis `%qt_9_5654%`
+   - La Trace du Hourra `%qt_9_5650%`
+   - Lavomatix `%qt_9_8208%`
+   - Le Carrousel de César `%qt_9_8184%`
+   - Le Cheval de Troie `%qt_9_6102%`
+   - Le Défi de César `%qt_9_5644%`
+   - Le Grand Splatch `%qt_9_5648%`
+   - Le Mini Carrousel `%qt_9_8202%`
+   - Le Petit Train `%qt_9_6364%`
+   - Le Vol d'Icare `%qt_9_5660%`
+   - Les Chaises Volantes `%qt_9_5645%`
+   - Les Chaudrons `%qt_9_5656%`
+   - Les Chevaux du Roy `%qt_9_8183%`
+   - Les Espions de César `%qt_9_5652%`
+   - Les Petites Chaises Volantes `%qt_9_8200%`
+   - Les Petits Chars tamponneurs `%qt_9_8203%`
+   - Les Petits Drakkars `%qt_9_8190%`
+   - Menhir Express `%qt_9_10449%`
+   - Nationale 7 `%qt_9_8188%`
+   - OzIris `%qt_9_5649%`
+   - Panoramix Play Area `%qt_9_8211%`
+   - Pégase Express `%qt_9_5642%`
+   - Petit Chêne Play Area `%qt_9_8212%`
+   - Romus et Rapidus `%qt_9_10448%`
+   - SOS Numérobis `%qt_9_6153%`
+   - VIKING PLAYGROUND `%qt_9_10215%`

@@ -1,1 +1,22 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Busch Gardens Tampa : 24
+ - **Congo** 
+   - Congo River Rapids `%qt_24_1510%`
+   - Kumba `%qt_24_6333%`
+---
+ - **Crown Colony Plaza** 
+   - Cheetah Hunt `%qt_24_6336%`
+---
+ - **Egypt** 
+   - Cobra's Curse  `%qt_24_6335%`
+   - Montu `%qt_24_6334%`
+---
+ - **Pantopia** 
+   - Falcon's Fury `%qt_24_6331%`
+   - SandSerpent `%qt_24_6330%`
+   - Scorpion `%qt_24_6332%`
+---
+ - **Stanleyville** 
+   - SheiKra `%qt_24_6329%`
+   - Tigris `%qt_24_7310%`
+---

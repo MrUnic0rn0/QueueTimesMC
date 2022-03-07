@@ -1,1 +1,72 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Canada's Wonderland : 58
+ - **Coasters** 
+   - Backlot Stunt Coaster `%qt_58_7682%`
+   - Behemoth `%qt_58_5860%`
+   - Dragon Fire `%qt_58_5866%`
+   - Flight Deck `%qt_58_7805%`
+   - Ghoster Coaster `%qt_58_7640%`
+   - Leviathan `%qt_58_5859%`
+   - Mighty Canadian Minebuster `%qt_58_5869%`
+   - Silver Streak `%qt_58_5865%`
+   - Taxi Jam `%qt_58_7751%`
+   - The Bat `%qt_58_5856%`
+   - The Fly `%qt_58_6642%`
+   - Thunder Run `%qt_58_6103%`
+   - Time Warp `%qt_58_7743%`
+   - Vortex `%qt_58_7747%`
+   - Wild Beast `%qt_58_5861%`
+   - Wonder Mountain's Guardian `%qt_58_7770%`
+   - Yukon Striker `%qt_58_6649%`
+---
+ - **Family** 
+   - Antique Carrousel `%qt_58_10420%`
+   - Flying Canoes `%qt_58_6107%`
+   - Flying Eagles `%qt_58_7685%`
+   - Klockwerks `%qt_58_7638%`
+   - Krachenwagen `%qt_58_7643%`
+   - Spinovator `%qt_58_7636%`
+   - Swing Of The Century `%qt_58_5867%`
+   - Timberwolf Falls `%qt_58_7648%`
+   - Viking's Rage `%qt_58_7632%`
+   - White Water Canyon `%qt_58_7645%`
+---
+ - **Kids** 
+   - Blast Off! `%qt_58_7687%`
+   - Boo Blasters on Boo Hill `%qt_58_5868%`
+   - Character Carrousel `%qt_58_7667%`
+   - Frequent Flyers `%qt_58_7697%`
+   - Joe Cool's Dodgem School `%qt_58_7652%`
+   - Jokey's Jalopies `%qt_58_7704%`
+   - Jumpin' Jet `%qt_58_7719%`
+   - KidZville Station `%qt_58_7728%`
+   - Lucy's Tugboat `%qt_58_7654%`
+   - Maple Park Treehouse `%qt_58_7757%`
+   - Peanuts 500 `%qt_58_7634%`
+   - Sally's Love Buggies `%qt_58_7680%`
+   - Snoopy vs Red Baron `%qt_58_7657%`
+   - Snoopy's Revolution `%qt_58_7659%`
+   - Snoopy's Space Race `%qt_58_7661%`
+   - Sugar Shack `%qt_58_7692%`
+   - Swan Lake `%qt_58_7733%`
+   - Swing Time `%qt_58_7738%`
+   - The Pumpkin Patch `%qt_58_7663%`
+   - Treetop Adventure `%qt_58_7690%`
+   - Woodstock Whirlybirds `%qt_58_7664%`
+---
+ - **Other Rides** 
+   - SlingShot `%qt_58_7775%`
+   - Speed City Raceway `%qt_58_9091%`
+   - Xtreme Skyflyer `%qt_58_10453%`
+---
+ - **Thrill** 
+   - Drop Tower `%qt_58_7677%`
+   - Lumberjack `%qt_58_6104%`
+   - Psyclone `%qt_58_5863%`
+   - Riptide `%qt_58_5858%`
+   - Skyhawk `%qt_58_5864%`
+   - Sledge Hammer `%qt_58_7716%`
+   - Soaring Timbers `%qt_58_5857%`
+   - Wilde Knight Mares `%qt_58_7808%`
+   - WindSeeker `%qt_58_5870%`
+---

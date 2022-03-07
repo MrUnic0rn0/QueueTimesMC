@@ -1,1 +1,54 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Frontier City : 282
+ - **Family Rides** 
+   - Billy’s Frog Hopper `%qt_282_9721%`
+   - Brain Drain `%qt_282_9667%`
+   - Bubba’s Honey Swings `%qt_282_9670%`
+   - Buckys Whistlestop Depot `%qt_282_9671%`
+   - Casino `%qt_282_9722%`
+   - Dodge ‘Ems `%qt_282_9675%`
+   - Frankies Mine Train `%qt_282_9678%`
+   - Grand Carousel `%qt_282_9680%`
+   - Grand Centennial Ferris Wheel `%qt_282_9682%`
+   - Hooties Tree House `%qt_282_9687%`
+   - Old 89’er Express `%qt_282_9692%`
+   - Prairie Schooner `%qt_282_9694%`
+   - Quick Draw `%qt_282_9696%`
+   - Rocky’s Ranger Planes `%qt_282_9700%`
+   - Sheldon’s Balloon Race `%qt_282_9702%`
+   - Sidewinder `%qt_282_9704%`
+   - Tin Lizzy's `%qt_282_9711%`
+   - Tina’s Tea Party `%qt_282_9713%`
+   - Tornado `%qt_282_9715%`
+   - Wild West Water Works `%qt_282_9717%`
+   - Winged Warrior `%qt_282_9719%`
+---
+ - **Kids' Rides** 
+   - Gunslinger `%qt_282_9685%`
+   - Mystery River Log Flume `%qt_282_9690%`
+   - Renegade Rapids `%qt_282_9698%`
+   - Soaring Eagle `%qt_282_9707%`
+   - Steel Lasso `%qt_282_9709%`
+---
+ - **Seasonal Rides** 
+   - Candy Cane Lane `%qt_282_10292%`
+   - Cirkus Berzerkus `%qt_282_9750%`
+   - Garden of Evil `%qt_282_9751%`
+   - Gingerbread Village `%qt_282_10295%`
+   - Hillbilly House `%qt_282_9726%`
+   - Little Monster Maze `%qt_282_9724%`
+   - Mayhem `%qt_282_9752%`
+   - Merry Mistletoe `%qt_282_10293%`
+   - Nightmare `%qt_282_10076%`
+   - Scarecrow Row `%qt_282_10075%`
+   - The Atomic Fellowship `%qt_282_9723%`
+   - The Nativity `%qt_282_10291%`
+   - Winter Wonderland `%qt_282_10294%`
+   - Witches Den `%qt_282_9725%`
+---
+ - **Thrill Rides** 
+   - Diamondback `%qt_282_9673%`
+   - Gully Washer `%qt_282_9683%`
+   - Silver Bullet `%qt_282_9705%`
+   - Wildcat `%qt_282_9720%`
+---

@@ -1,1 +1,25 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags Hurricane Harbor, Phoenix : 295
+ - **Family Rides** 
+   - Adventure River `%qt_295_8113%`
+   - Big Kahuna `%qt_295_8116%`
+   - Hurricane Bay `%qt_295_8112%`
+   - Paradise Island `%qt_295_9844%`
+---
+ - **Kids' Rides** 
+   - Coconut Bay `%qt_295_8110%`
+   - Soak’em Playground `%qt_295_9845%`
+   - Splash Island `%qt_295_8108%`
+   - Splashwater Beach `%qt_295_8111%`
+---
+ - **Seasonal Rides** 
+   - Typhoon Twister/Serpentine Complex `%qt_295_8115%`
+   - Wahoo Racers `%qt_295_8114%`
+---
+ - **Thrill Rides** 
+   - Anaconda `%qt_295_8103%`
+   - Bahama Blaster `%qt_295_8105%`
+   - Bonzai Pipelines `%qt_295_8106%`
+   - Mammoth Falls `%qt_295_8104%`
+   - Tornado `%qt_295_8107%`
+---

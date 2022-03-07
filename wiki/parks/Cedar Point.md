@@ -1,1 +1,63 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Cedar Point : 50
+ - **Coasters** 
+   - Blue Streak `%qt_50_3760%`
+   - Cedar Creek Mine Ride `%qt_50_3761%`
+   - Corkscrew `%qt_50_3762%`
+   - GateKeeper `%qt_50_3763%`
+   - Gemini `%qt_50_3764%`
+   - Iron Dragon `%qt_50_3765%`
+   - Magnum XL-200 `%qt_50_3766%`
+   - Maverick `%qt_50_3767%`
+   - Millennium Force `%qt_50_3769%`
+   - Pipe Scream `%qt_50_4577%`
+   - Raptor `%qt_50_3770%`
+   - Rougarou `%qt_50_3771%`
+   - Steel Vengeance `%qt_50_5733%`
+   - Top Thrill Dragster `%qt_50_3772%`
+   - Valravn `%qt_50_3774%`
+   - Wilderness Run `%qt_50_4650%`
+   - Woodstock Express `%qt_50_4647%`
+---
+ - **Family** 
+   - 4x4's `%qt_50_4643%`
+   - Cadillac Cars `%qt_50_4652%`
+   - Charlie Brown's Wind-Up `%qt_50_4654%`
+   - Flying Ace Balloon Race `%qt_50_4655%`
+   - Giant Wheel `%qt_50_4649%`
+   - Midway Carousel `%qt_50_4657%`
+   - Peanuts 500 `%qt_50_4658%`
+   - Peanuts Road Rally `%qt_50_4659%`
+   - Snoopy's Deep Sea Divers `%qt_50_4660%`
+   - Snoopy's Express Railroad `%qt_50_4661%`
+   - Tilt-A-Whirl `%qt_50_4662%`
+   - Woodstock's Whirlybirds `%qt_50_4663%`
+---
+ - **Kids** 
+   - Dune Buggies `%qt_50_4664%`
+   - Helicopters `%qt_50_4665%`
+   - Joe Cool's Dodgem School `%qt_50_4666%`
+   - Motorcycles `%qt_50_4668%`
+   - Police Cars `%qt_50_4644%`
+   - Rock, Spin, and Turn `%qt_50_4670%`
+   - Roto Whip `%qt_50_4671%`
+   - Sky Fighters `%qt_50_4672%`
+   - Snoopy's Space Race `%qt_50_4673%`
+   - Space Age `%qt_50_4674%`
+---
+ - **Thrill** 
+   - Cedar Downs Racing Derby `%qt_50_4676%`
+   - Dodgem `%qt_50_4677%`
+   - Matterhorn `%qt_50_4678%`
+   - MaXair `%qt_50_3775%`
+   - Monster `%qt_50_4679%`
+   - Power Tower `%qt_50_3776%`
+   - Scrambler `%qt_50_4681%`
+   - Skyhawk `%qt_50_3780%`
+   - SlingShot `%qt_50_4682%`
+   - Super Himalaya `%qt_50_4683%`
+   - Thunder Canyon `%qt_50_4645%`
+   - Tiki Twirl `%qt_50_4684%`
+   - Troika `%qt_50_4685%`
+   - WindSeeker `%qt_50_3777%`
+---

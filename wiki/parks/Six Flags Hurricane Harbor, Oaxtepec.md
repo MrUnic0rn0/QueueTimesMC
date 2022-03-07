@@ -1,1 +1,24 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags Hurricane Harbor, Oaxtepec : 292
+ - **Kids' Rides** 
+   - Adventure River `%qt_292_8072%`
+   - Hurricane Bay `%qt_292_8071%`
+   - Splash Island `%qt_292_8076%`
+---
+ - **Other Rides** 
+   - Coconut Bay `%qt_292_8073%`
+---
+ - **Seasonal Rides** 
+   - Big Surf `%qt_292_8074%`
+   - King Cobra `%qt_292_8077%`
+---
+ - **Thrill Rides** 
+   - Anaconda `%qt_292_8066%`
+   - Aqua Racers `%qt_292_8065%`
+   - Cawabunga  `%qt_292_8070%`
+   - Shark Attack `%qt_292_8069%`
+   - Tornado `%qt_292_8075%`
+   - Twister `%qt_292_8068%`
+   - Typhoon  `%qt_292_8067%`
+   - Volcano Blaster `%qt_292_8064%`
+---
