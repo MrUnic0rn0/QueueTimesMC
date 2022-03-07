@@ -10,8 +10,10 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
+import java.util.List;
 
 public class Park {
     private final int id;
@@ -21,29 +23,15 @@ public class Park {
 
     public Park(int id, String name) {
         this.id = id;
-        this.name = name;
+        this.name = name.trim();
         this.rides = new HashMap<>();
     }
 
-    protected void update() {
-        JsonObject park_obj;
-        try {
-            URL url = new URL(ParkController.getTimeAPI(getId()));
-
-            URLConnection request = url.openConnection();
-            request.connect();
-
-            JsonParser jp = new JsonParser();
-            JsonElement root = jp.parse(new InputStreamReader((InputStream) request.getContent()));
-            park_obj = root.getAsJsonObject();
-
-        } catch (IOException e) {
-            e.printStackTrace();
-            park_obj = null;
-        }
-        if (park_obj == null)
+    public void update() {
+        JsonElement park = ParkController.getJson(ParkController.getTimeAPI(getId()));
+        if (park == null || !park.isJsonObject())
             return;
-
+        JsonObject park_obj = park.getAsJsonObject();
         for (JsonElement land : park_obj.getAsJsonArray("lands")) {
             for (JsonElement ride : land.getAsJsonObject().getAsJsonArray("rides")) {
                 updateRide(ride);
@@ -93,6 +81,22 @@ public class Park {
 
     @Override
     public String toString() {
-        return getName();
+        return getId() + " : " + getName();
+    }
+
+    public String getRideList(int nb_page) {
+        int max_page = rides.size() / 10 + ((rides.size() % 10 != 0) ? 1 : 0);
+        if (nb_page < 1)
+            nb_page = 1;
+        if (nb_page > max_page)
+            nb_page = max_page;
+        String message = nb_page + "/" + max_page;
+        List<Ride> list = new ArrayList<Ride>(rides.values());
+        for (int i = (nb_page - 1) * 10; i < nb_page * 10; i++) {
+            if (i < list.size()) {
+                message += "\n §a* " + list.get(i).toString();
+            }
+        }
+        return message;
     }
 }

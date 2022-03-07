@@ -1,0 +1,110 @@
+package fr.mrunicorn.queuetimesmc.commands;
+
+import fr.mrunicorn.queuetimesmc.QueueTimesMC;
+import fr.mrunicorn.queuetimesmc.controllers.ParkController;
+import fr.mrunicorn.queuetimesmc.models.Park;
+import org.bukkit.Bukkit;
+import org.bukkit.command.Command;
+import org.bukkit.command.CommandExecutor;
+import org.bukkit.command.CommandSender;
+import org.bukkit.command.TabExecutor;
+import org.bukkit.entity.Player;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+public class QueueTimesCommand implements CommandExecutor, TabExecutor {
+
+    private ParkController controller;
+
+    public QueueTimesCommand(ParkController controller) {
+
+        if (Bukkit.getPluginManager().getPlugin("PlaceholderAPI") != null) {
+
+        }
+
+        this.controller = controller;
+
+        QueueTimesMC.getInstance().getCommand("queuetimes").setExecutor(this);
+        QueueTimesMC.getInstance().getCommand("queuetimes").setTabCompleter(this);
+    }
+
+    @Override
+    public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
+        if (!(sender instanceof Player))
+            return false;
+        Player player = (Player) sender;
+
+        if (args.length > 0) {
+            switch (args[0].toLowerCase()) {
+                case "park":
+                    return commandPark(player, args);
+                case "help":
+                    return commandHelp(player, args);
+            }
+        }
+        return true;
+    }
+
+    private boolean commandHelp(Player player, String[] args) {
+
+        return true;
+    }
+
+    private boolean commandPark(Player player, String[] args) {
+        if (args.length > 1) {
+            if (args[1].equalsIgnoreCase("list")) {
+                int nb_page = 1;
+                if (args.length > 2 && args[2].matches("-?(0|[1-9]\\d*)"))
+                    nb_page = Integer.parseInt(args[2]);
+                this.controller.listParks(player, nb_page);
+            } else if (args[1].matches("-?(0|[1-9]\\d*)")) {
+                int park_id = Integer.parseInt(args[1]);
+                Park park = controller.getPark(park_id);
+                if (park == null) {
+                    player.sendMessage(ParkController.prefix + "§cPark not found!");
+                    return true;
+                }
+                int nb_page = 1;
+                if (args.length > 2) {
+                    if (args[2].equalsIgnoreCase("set")) {
+                        return true;
+                    } else if (args[2].matches("-?(0|[1-9]\\d*)")) {
+                        nb_page = Integer.parseInt(args[2]);
+                    }
+                }
+                if (controller.isActivePark(park_id)) {
+                    player.sendMessage(ParkController.prefix + "§e " + park.getName() + " : " + park.getRideList(nb_page));
+                } else {
+                    player.sendMessage(ParkController.prefix + "§cPark not activated!");
+                }
+            }
+        }
+        return true;
+    }
+
+    @Override
+    public List<String> onTabComplete(CommandSender sender, Command command, String alias, String[] args) {
+        List<String> completions = new ArrayList<>();
+
+        if (args.length == 1) {
+            completions.add("help");
+            completions.add("park");
+        } else if (args.length > 1 && args[0].equalsIgnoreCase("park")) {
+            if (args.length == 2) {
+                completions.add("list");
+            } else if (args[1].matches("-?(0|[1-9]\\d*)")) {
+                if (!args[1].equalsIgnoreCase("list")) {
+                    if (args.length == 3) {
+                        completions.add("set");
+                    } else if (args.length == 4 && args[2].equalsIgnoreCase("set")) {
+                        completions.add("true");
+                        completions.add("false");
+                    }
+                }
+            }
+        }
+        return completions;
+    }
+}
