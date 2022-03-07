@@ -1,1 +1,44 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Phantasialand : 56
+ - **Berlin** 
+   - Bolles Riesenrad `%qt_56_6809%`
+   - Das verrückte Hotel Tartüff `%qt_56_6829%`
+   - Maus au Chocolat `%qt_56_6819%`
+   - Pferdekarussell `%qt_56_6816%`
+   - Wellenflug `%qt_56_6824%`
+---
+ - **China Town** 
+   - Feng Ju Palace `%qt_56_6820%`
+   - Geister Rikscha `%qt_56_6821%`
+---
+ - **Deep in Africa** 
+   - Black Mamba `%qt_56_6825%`
+---
+ - **Fantasy** 
+   - Bumper Klumpen `%qt_56_6839%`
+   - Crazy Bats `%qt_56_5820%`
+   - Der lustige Papagei `%qt_56_6833%`
+   - Die fröhliche Bienchenjagd `%qt_56_6834%`
+   - Tittle Tattle Tree `%qt_56_6831%`
+   - Winja‘s Fear `%qt_56_6828%`
+   - Winja‘s Force `%qt_56_6830%`
+   - Wirtl‘s Taubenturm `%qt_56_6836%`
+   - Wolke‘s Luftpost `%qt_56_6835%`
+   - Wözl‘s Duck Washer `%qt_56_6840%`
+   - Wupi‘s Wabi Wipper `%qt_56_6841%`
+   - Würmling Express `%qt_56_6832%`
+---
+ - **Mexico** 
+   - Chiapas DIE Wasserbahn `%qt_56_6814%`
+   - Colorado Adventure `%qt_56_6811%`
+   - Talocan `%qt_56_6812%`
+   - Tikal `%qt_56_6813%`
+---
+ - **Mystery** 
+   - Mystery Castle `%qt_56_6807%`
+   - Raik `%qt_56_6806%`
+   - Taron `%qt_56_6805%`
+---
+ - **Rookburgh** 
+   - F.L.Y. `%qt_56_8236%`
+---

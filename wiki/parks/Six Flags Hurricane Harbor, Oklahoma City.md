@@ -1,1 +1,23 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags Hurricane Harbor, Oklahoma City : 294
+ - **Seasonal Rides** 
+   - Bermuda Triangle `%qt_294_9824%`
+   - Big Kahuna `%qt_294_9825%`
+   - Blackbeard’s Revenge `%qt_294_9848%`
+   - Bonzai Pipeline `%qt_294_9834%`
+   - Calypso Cannonball `%qt_294_9850%`
+   - Caribbean Cove `%qt_294_9833%`
+   - Castaway Creek `%qt_294_9826%`
+   - Dive Bomber `%qt_294_9822%`
+   - Hurricane Bay `%qt_294_9829%`
+   - Mega Wedgie `%qt_294_9828%`
+   - Paradise Plunge `%qt_294_9831%`
+   - Pipeline Wave `%qt_294_9830%`
+   - Raging Rapids `%qt_294_9827%`
+   - Splashwater Island `%qt_294_9823%`
+   - Typhoon Twister `%qt_294_9832%`
+   - Wahoo Racer `%qt_294_9836%`
+---
+ - **Thrill Rides** 
+   - Gangplank `%qt_294_9852%`
+---

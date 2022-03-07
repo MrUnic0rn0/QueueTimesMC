@@ -1,1 +1,52 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Valleyfair : 68
+ - **Family** 
+   - Bumper Cars `%qt_68_7881%`
+   - Carousel `%qt_68_7827%`
+   - Ferris Wheel `%qt_68_7868%`
+   - Mad Mouse `%qt_68_6581%`
+   - Minnesota River Valley Railroad - North Station `%qt_68_8912%`
+   - Monster `%qt_68_7876%`
+   - The Wave `%qt_68_7885%`
+   - Thunder Canyon `%qt_68_7890%`
+   - Wheel of Fortune `%qt_68_7879%`
+---
+ - **Kids** 
+   - Charlie Brown's Wind-Up `%qt_68_7849%`
+   - Cosmic Coaster `%qt_68_7888%`
+   - Flying Ace Balloon Race `%qt_68_7854%`
+   - Kite Eating Tree `%qt_68_7843%`
+   - Linus Launcher `%qt_68_7864%`
+   - Linus' Beetle Bugs `%qt_68_7872%`
+   - Lucy's Tugboat `%qt_68_7882%`
+   - PEANUTS 500 `%qt_68_7891%`
+   - PEANUTS Playhouse `%qt_68_7859%`
+   - PEANUTS Road Rally `%qt_68_7892%`
+   - Sally's Swing Set `%qt_68_7889%`
+   - Snoopy vs. Red Baron `%qt_68_7880%`
+   - Snoopy's Deep Sea Divers `%qt_68_7835%`
+   - Snoopy's Junction `%qt_68_7894%`
+   - Snoopy's Rocket Express `%qt_68_7847%`
+   - Woodstock Whirlybirds `%qt_68_7877%`
+---
+ - **Route 76** 
+   - Antique Autos `%qt_68_7861%`
+   - Delirious `%qt_68_7814%`
+   - Flying Eagles `%qt_68_6525%`
+   - North Star `%qt_68_6524%`
+   - Northern Lights `%qt_68_7878%`
+   - RipCord `%qt_68_7883%`
+   - Scrambler `%qt_68_7857%`
+   - Steel Venom `%qt_68_6578%`
+   - Tilter `%qt_68_7886%`
+---
+ - **Thrill** 
+   - Corkscrew `%qt_68_7852%`
+   - Excalibur `%qt_68_7831%`
+   - High Roller `%qt_68_6579%`
+   - Power Tower `%qt_68_7893%`
+   - Renegade `%qt_68_6582%`
+   - SuperCat `%qt_68_7837%`
+   - Wild Thing `%qt_68_6583%`
+   - Xtreme Swing `%qt_68_6580%`
+---

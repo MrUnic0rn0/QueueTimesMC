@@ -1,1 +1,77 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Kings Island : 60
+ - **Coasters** 
+   - Adventure Express `%qt_60_5899%`
+   - Backlot Stunt Coaster `%qt_60_5898%`
+   - Banshee `%qt_60_5907%`
+   - Diamondback `%qt_60_5905%`
+   - Flight of Fear `%qt_60_5903%`
+   - Invertigo `%qt_60_5904%`
+   - Mystic Timbers `%qt_60_10452%`
+   - Orion `%qt_60_8063%`
+   - The Bat `%qt_60_5906%`
+   - The Beast `%qt_60_5893%`
+   - The Racer `%qt_60_5895%`
+---
+ - **Family** 
+   - Boo Blasters on Boo Hill `%qt_60_5902%`
+   - Congo Falls `%qt_60_7593%`
+   - Dodgem `%qt_60_7594%`
+   - Eiffel Tower `%qt_60_7597%`
+   - Grand Carousel `%qt_60_7598%`
+   - K.I. & Miami Valley Railroad `%qt_60_7313%`
+   - Kings Mills Antique Autos `%qt_60_8062%`
+   - Monster `%qt_60_7599%`
+   - Scrambler `%qt_60_7600%`
+   - Shake, Rattle & Roll `%qt_60_7601%`
+   - Viking Fury `%qt_60_7602%`
+   - White Water Canyon `%qt_60_5908%`
+   - Zephyr `%qt_60_7603%`
+---
+ - **Kids** 
+   - Character Carousel `%qt_60_7611%`
+   - Charlie Brown's Wind Up `%qt_60_7619%`
+   - Flying Ace Aerial Chase `%qt_60_5896%`
+   - Joe Cool's Dodgem School `%qt_60_7612%`
+   - Kite Eating Tree `%qt_60_7625%`
+   - Linus' Beetle Bugs `%qt_60_7613%`
+   - Linus' Launcher `%qt_60_7621%`
+   - Peanuts 500 `%qt_60_7614%`
+   - Peanuts Off-Road Rally `%qt_60_7627%`
+   - Race For Your Life Charlie Brown `%qt_60_7605%`
+   - Sally's Sea Plane `%qt_60_7623%`
+   - Snoopy vs. Red Baron `%qt_60_7616%`
+   - Snoopy's Junction `%qt_60_7628%`
+   - Snoopy's Space Buggies `%qt_60_7624%`
+   - Surf Dog `%qt_60_7617%`
+   - The Great Pumpkin Coaster `%qt_60_7607%`
+   - Woodstock Express `%qt_60_5910%`
+   - Woodstock Gliders `%qt_60_7626%`
+   - Woodstock Whirlybirds `%qt_60_7608%`
+---
+ - **Thrill** 
+   - Delirium `%qt_60_5901%`
+   - Drop Tower `%qt_60_5909%`
+   - Slingshot `%qt_60_7609%`
+   - WindSeeker `%qt_60_7618%`
+   - Xtreme Skyflyer `%qt_60_7622%`
+---
+ - **Water Park** 
+   - Aruba Tuba `%qt_60_8767%`
+   - Breakers Bay `%qt_60_8766%`
+   - Castaway Cove `%qt_60_8771%`
+   - Coconut Cove `%qt_60_8770%`
+   - Lookout Lagoon `%qt_60_8768%`
+   - Mondo Monsoon `%qt_60_8769%`
+   - Paradise Plunge `%qt_60_8773%`
+   - Pineapple Pipeline `%qt_60_7641%`
+   - Pipeline Paradise `%qt_60_8774%`
+   - Rendezvous Run `%qt_60_8775%`
+   - Splash Landing `%qt_60_8772%`
+   - Splash River `%qt_60_8776%`
+   - Thunder Falls `%qt_60_8779%`
+   - Tidal Wave Bay `%qt_60_8777%`
+   - Tropical Plunge `%qt_60_8781%`
+   - Tropical Twister `%qt_60_8780%`
+   - Zoom Flume `%qt_60_8778%`
+---

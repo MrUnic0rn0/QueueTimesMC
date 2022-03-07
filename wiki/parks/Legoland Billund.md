@@ -1,1 +1,25 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Legoland Billund : 52
+ - **Adventureland** 
+   - The TEMPLE `%qt_52_5548%`
+   - X-treme Racers `%qt_52_5549%`
+---
+ - **Knights Kingdom** 
+   - The Dragon `%qt_52_5552%`
+   - Vikings River Splash `%qt_52_5547%`
+---
+ - **LEGO NINJAGO WORLD** 
+   - NINJAGO The Ride `%qt_52_5551%`
+---
+ - **LEGOREDO TOWN** 
+   - Flying Eagle `%qt_52_5554%`
+   - Ghost – The Haunted House `%qt_52_5550%`
+   - LEGO® Canoe `%qt_52_5546%`
+---
+ - **Polar Land** 
+   - Polar X-plorer `%qt_52_5553%`
+---
+ - **THE LEGO MOVIE World** 
+   - Apocalypseburg Sky Battle - temporarily closed `%qt_52_8323%`
+   - Emmet’s Flying Adventure - Masters of Flight `%qt_52_8324%`
+---

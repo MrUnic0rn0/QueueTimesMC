@@ -1,1 +1,51 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # California's Great America : 57
+ - **Coasters** 
+   - Demon `%qt_57_5847%`
+   - Flight Deck `%qt_57_5849%`
+   - Gold Striker `%qt_57_5853%`
+   - Patriot `%qt_57_5855%`
+   - Psycho Mouse `%qt_57_5835%`
+   - RailBlazer `%qt_57_5852%`
+   - The Grizzly `%qt_57_5840%`
+---
+ - **Family** 
+   - Barney Oldfield Speedway `%qt_57_5838%`
+   - Berserker `%qt_57_7691%`
+   - Carousel Columbia `%qt_57_7630%`
+   - Celebration Swings `%qt_57_7693%`
+   - Centrifuge `%qt_57_7631%`
+   - Delta Flyer/Eagle's Flight `%qt_57_7637%`
+   - Eagle's Flight `%qt_57_10454%`
+   - Flying Eagles `%qt_57_7695%`
+   - Mass Effect: New Earth `%qt_57_5851%`
+   - Rip Roaring Rapids `%qt_57_5850%`
+   - Rue le Dodge `%qt_57_5833%`
+   - Star Tower `%qt_57_7642%`
+   - Thunder Raceway `%qt_57_7633%`
+   - Whitewater Falls `%qt_57_5842%`
+   - Woodstock Express `%qt_57_7720%`
+---
+ - **Kids** 
+   - Character Carousel `%qt_57_7644%`
+   - Flying Ace `%qt_57_7635%`
+   - GR8 SK8 `%qt_57_7701%`
+   - Joe Cool's Dodgem School `%qt_57_7639%`
+   - Kite Eating Tree `%qt_57_7706%`
+   - Lucy's Crabbie Cabbies `%qt_57_7650%`
+   - PEANUTS 500 `%qt_57_7656%`
+   - PEANUTS Pirates `%qt_57_7647%`
+   - Planet Snoopy Construction Zone `%qt_57_7710%`
+   - Sally's Love Buggies `%qt_57_7714%`
+   - Sally's Swing Set `%qt_57_7653%`
+   - Snoopy's Space Buggies `%qt_57_7662%`
+   - Snoopy's Space Race `%qt_57_7658%`
+   - The Pumpkin Patch `%qt_57_7660%`
+---
+ - **Thrill** 
+   - Delirium `%qt_57_5846%`
+   - Drop Tower `%qt_57_5841%`
+   - Orbit `%qt_57_7665%`
+   - Tiki Twirl `%qt_57_5843%`
+   - Xtreme Skyflyer `%qt_57_7668%`
+---

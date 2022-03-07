@@ -1,1 +1,46 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags America : 42
+ - **Family Rides** 
+   - Capital Railways `%qt_42_3454%`
+   - Carousel `%qt_42_3455%`
+   - Coyote Creek Crazy Cars `%qt_42_3456%`
+   - Cyclone `%qt_42_3457%`
+   - Flying Carousel `%qt_42_3459%`
+   - Foghorn Leghorn’s Tinseltown Train `%qt_42_3460%`
+   - French Quarter Flyers `%qt_42_3509%`
+   - Great Race Antique Cars `%qt_42_3461%`
+   - High Seas `%qt_42_3463%`
+   - Riddle Me This `%qt_42_3468%`
+   - Rodeo `%qt_42_3483%`
+   - Tea Cups `%qt_42_3478%`
+   - Zydeco Zinger `%qt_42_3508%`
+---
+ - **Kids' Rides** 
+   - Elmer’s Around the World in 80 Seconds `%qt_42_3458%`
+   - Great Chase `%qt_42_3479%`
+   - Happy Junction `%qt_42_3462%`
+   - Pepe Le Pew’s Tea Party `%qt_42_3465%`
+   - Pirate’s Flight `%qt_42_3466%`
+   - Sky Jumper `%qt_42_3471%`
+   - Sylvester’s Pounce and Bounce `%qt_42_3476%`
+   - Taz’s Film Works `%qt_42_3477%`
+   - Up, Up & Away `%qt_42_3486%`
+   - Whistlestop Bus Line `%qt_42_3487%`
+   - Whistlestop Train `%qt_42_3489%`
+   - Whistlestop Whirlybirds `%qt_42_3490%`
+   - Yosemite Sam's Hollywood Flight School `%qt_42_3491%`
+---
+ - **Thrill Rides** 
+   - BATWING Coaster `%qt_42_3453%`
+   - Big Easy Speedway `%qt_42_3473%`
+   - Bourbon Street Fireball `%qt_42_3510%`
+   - FIREBIRD `%qt_42_6382%`
+   - Mind Eraser `%qt_42_3481%`
+   - Ragin Cajun `%qt_42_3506%`
+   - Roar `%qt_42_3469%`
+   - SUPERMAN: Ride of Steel `%qt_42_3475%`
+   - THE JOKER’s Jinx `%qt_42_3480%`
+   - Voodoo Drop `%qt_42_3485%`
+   - Wild One `%qt_42_3484%`
+   - WONDER WOMAN Lasso of Truth  `%qt_42_3918%`
+---

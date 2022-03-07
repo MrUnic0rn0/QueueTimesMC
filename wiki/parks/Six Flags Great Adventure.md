@@ -1,1 +1,62 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags Great Adventure : 37
+ - **Family Rides** 
+   - Air Jumbo `%qt_37_3231%`
+   - Big Wheel `%qt_37_3234%`
+   - Buccaneer `%qt_37_3270%`
+   - Carousel `%qt_37_3237%`
+   - Congo Rapids `%qt_37_3238%`
+   - DejaVu `%qt_37_3242%`
+   - Enchanted Teacups `%qt_37_3244%`
+   - Fender Benders `%qt_37_3245%`
+   - Giraffe Encounter Tour `%qt_37_10514%`
+   - Great American Road Race `%qt_37_3247%`
+   - Harley Quinn Crazy Train `%qt_37_3236%`
+   - Houdini’s Great Escape `%qt_37_3249%`
+   - Jolly Roger `%qt_37_3250%`
+   - Parachute Training Center: Edwards AFB `%qt_37_3254%`
+   - Saw Mill Log Flume `%qt_37_3283%`
+   - Skyway — Lakefront `%qt_37_3265%`
+   - Skyway Frontier Adventures `%qt_37_3264%`
+   - Swashbuckler `%qt_37_3267%`
+   - Tango `%qt_37_3268%`
+---
+ - **Kids' Rides** 
+   - Air Safari `%qt_37_3232%`
+   - Barnstormer `%qt_37_10461%`
+   - Bugaboo `%qt_37_3275%`
+   - Bugs Bunny Camp Carousel `%qt_37_3277%`
+   - Bugs Bunny National Park Water Tower `%qt_37_3278%`
+   - Bugs Bunny Ranger Pilots `%qt_37_3279%`
+   - Daffy's Hot Air Balloons `%qt_37_3240%`
+   - Foghorn Leghorn's Stagecoach Express `%qt_37_3246%`
+   - Jumpin’ Joey `%qt_37_3251%`
+   - Lil’ Devil Coaster `%qt_37_10077%`
+   - Porky Pig's Camp Wagons `%qt_37_3256%`
+   - Raja’s Rickshaws `%qt_37_3257%`
+   - Sky Zooma `%qt_37_3281%`
+   - Tornado `%qt_37_10437%`
+---
+ - **Thrill Rides** 
+   - BATMAN: The Ride `%qt_37_3233%`
+   - Bizarro `%qt_37_3235%`
+   - CYBORG™ Cyber Spin `%qt_37_5148%`
+   - Dare Devil Dive `%qt_37_3241%`
+   - El Toro `%qt_37_3243%`
+   - GREEN LANTERN `%qt_37_3248%`
+   - Jersey Devil Coaster `%qt_37_8539%`
+   - Justice League: Battle for Metropolis `%qt_37_3916%`
+   - Kingda Ka `%qt_37_3252%`
+   - Nitro `%qt_37_3253%`
+   - Runaway Mine Train `%qt_37_3261%`
+   - Skull Mountain `%qt_37_3262%`
+   - SkyScreamer `%qt_37_3263%`
+   - Slingshot `%qt_37_3282%`
+   - SUPERMAN: Ultimate Flight `%qt_37_3266%`
+   - The Dark Knight Coaster `%qt_37_3271%`
+   - THE JOKER `%qt_37_3288%`
+   - Twister `%qt_37_3272%`
+   - Wile E. Coyote Canyon Blaster `%qt_37_3273%`
+   - WONDER WOMAN™ Lasso of Truth `%qt_37_6371%`
+   - Zumanjaro: Drop of Doom `%qt_37_3284%`
+---

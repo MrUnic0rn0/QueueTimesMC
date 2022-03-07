@@ -1,1 +1,24 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Parque Warner Madrid : 298
+ - **Others** 
+   - Academia de pilotos BABY LOONEY TUNES `%qt_298_8693%`
+   - BATMAN: Arkham Asylum `%qt_298_8703%`
+   - Cartoon Carrousel `%qt_298_10129%`
+   - Cataratas Salvajes `%qt_298_8699%`
+   - Cine Tour `%qt_298_8694%`
+   - Coaster Express `%qt_298_8844%`
+   - CORRECAMINOS Bip Bip `%qt_298_8696%`
+   - Hotel Embrujado `%qt_298_8697%`
+   - La Aventura de SCOOBY-DOO `%qt_298_10451%`
+   - La Venganza del ENIGMA `%qt_298_8704%`
+   - Las Tazas de SCOOBY DOO `%qt_298_10131%`
+   - LEX LUTHOR `%qt_298_8707%`
+   - Los Carros de la Mina `%qt_298_10130%`
+   - Los Coches de Choque de EL JOKER `%qt_298_10132%`
+   - OSO YOGUI `%qt_298_8834%`
+   - Rápidos ACME `%qt_298_8700%`
+   - Río Bravo `%qt_298_8705%`
+   - Sillas Voladoras de MR. FREEZE `%qt_298_10133%`
+   - Stunt Fall `%qt_298_8701%`
+   - SUPERMAN™: La Atracción de Acero `%qt_298_8702%`
+   - TOM y JERRY `%qt_298_8698%`

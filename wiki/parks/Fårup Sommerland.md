@@ -1,1 +1,32 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Fårup Sommerland : 18
+ - **Others** 
+   - Den Røde Baron `%qt_18_7396%`
+   - Egerntårnet `%qt_18_7392%`
+   - Falken `%qt_18_2255%`
+   - Fårup Bådene `%qt_18_7400%`
+   - Fårup Rafting `%qt_18_2257%`
+   - Færdselsskolen `%qt_18_7398%`
+   - Flagermusen `%qt_18_2256%`
+   - FØNIX `%qt_18_10504%`
+   - Heste `%qt_18_7401%`
+   - Hvirvelvinden `%qt_18_4538%`
+   - Lynet `%qt_18_2261%`
+   - Mine-Expressen `%qt_18_2260%`
+   - Motorbøllen `%qt_18_7390%`
+   - Nøddesvinget `%qt_18_7389%`
+   - Orkanen `%qt_18_2262%`
+   - Pindsvinet `%qt_18_7391%`
+   - Racing Team `%qt_18_7397%`
+   - Saven `%qt_18_7387%`
+   - Skovsuset `%qt_18_7395%`
+   - SKOVTUREN `%qt_18_8765%`
+   - Snurretræet `%qt_18_7394%`
+   - Surf Hill `%qt_18_7457%`
+   - Tønderne `%qt_18_7393%`
+   - Træstammerne `%qt_18_2259%`
+   - Vandfaldet `%qt_18_7453%`
+   - Vandkanonen `%qt_18_7452%`
+   - Vandslangen `%qt_18_7454%`
+   - Waterslide `%qt_18_7455%`
+   - Wild River `%qt_18_7456%`

@@ -1,1 +1,38 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Tokyo Disney Resort Disney Sea : 275
+ - **Others** 
+   - 20,000 Leagues Under the Sea `%qt_275_8029%`
+   - Aquatopia `%qt_275_8038%`
+   - Ariel's Playground `%qt_275_8022%`
+   - Big Band Beat: A Special Treat `%qt_275_9037%`
+   - Big City Vehicles `%qt_275_8037%`
+   - Blowfish Balloon Race `%qt_275_8044%`
+   - Caravan Carousel `%qt_275_8040%`
+   - Disney Light the Night (Tokyo DisneySea) `%qt_275_9033%`
+   - DisneySea Electric Railway (American Waterfront Station) `%qt_275_8036%`
+   - DisneySea Electric Railway (Port Discovery Station) `%qt_275_8035%`
+   - DisneySea Transit Steamer Line (American Waterfront Dock) `%qt_275_8032%`
+   - DisneySea Transit Steamer Line (Lost River Delta Dock) `%qt_275_8033%`
+   - DisneySea Transit Steamer Line (Mediterranean Harbor Dock) `%qt_275_8031%`
+   - Flounder's Flying Fish Coaster `%qt_275_8041%`
+   - Fortress Explorations `%qt_275_8048%`
+   - Fortress Explorations "The Leonardo Challenge" `%qt_275_8049%`
+   - Indiana Jones® Adventure: Temple of the Crystal Skull `%qt_275_8027%`
+   - Jasmine's Flying Carpets `%qt_275_8025%`
+   - Journey to the Center of the Earth `%qt_275_8028%`
+   - Jumpin' Jellyfish `%qt_275_8043%`
+   - Mermaid Lagoon Theater `%qt_275_8026%`
+   - Mickey & Friends Harbor Greeting “Time to Shine!” `%qt_275_10127%`
+   - My Friend Duffy `%qt_275_9034%`
+   - Nemo & Friends SeaRider `%qt_275_8051%`
+   - Raging Spirits `%qt_275_8046%`
+   - Scuttle's Scooters `%qt_275_8042%`
+   - Sindbad's Storybook Voyage `%qt_275_8039%`
+   - Soaring: Fantastic Flight `%qt_275_8024%`
+   - Song of Mirage `%qt_275_9032%`
+   - The Magic Lamp Theater `%qt_275_8030%`
+   - The Whirlpool `%qt_275_8045%`
+   - Tower of Terror  `%qt_275_8047%`
+   - Toy Story Mania! `%qt_275_8023%`
+   - Turtle Talk `%qt_275_8050%`
+   - Venetian Gondolas `%qt_275_8034%`

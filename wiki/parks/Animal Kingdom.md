@@ -1,1 +1,27 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Animal Kingdom : 8
+ - **Africa** 
+   - Kilimanjaro Safaris `%qt_8_113%`
+   - Pangani Forest Exploration Trail `%qt_8_651%`
+   - Wildlife Express Train `%qt_8_655%`
+---
+ - **Asia** 
+   - Expedition Everest - Legend of the Forbidden Mountain® `%qt_8_110%`
+   - Kali River Rapids `%qt_8_112%`
+---
+ - **Dinoland U.S.A** 
+   - DINOSAUR `%qt_8_111%`
+   - The Boneyard `%qt_8_652%`
+   - TriceraTop Spin `%qt_8_115%`
+---
+ - **Discovery Island** 
+   - Discovery Island Trails `%qt_8_648%`
+   - It's Tough to be a Bug! `%qt_8_249%`
+---
+ - **Pandora - The World of Avatar** 
+   - Avatar Flight of Passage `%qt_8_4439%`
+   - Na'vi River Journey `%qt_8_4438%`
+---
+ - **Rafiki's Planet Watch** 
+   - The Animation Experience at Conservation Station `%qt_8_6680%`
+---

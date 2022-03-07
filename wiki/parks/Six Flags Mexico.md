@@ -1,1 +1,52 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags Mexico : 47
+ - **Family Rides** 
+   - ACME Trucking Company `%qt_47_6519%`
+   - Aquaman Splashdown `%qt_47_9922%`
+   - DC Super Hero Girls `%qt_47_6533%`
+   - Expresso Musical `%qt_47_9898%`
+   - La Fiesta de las Tazas `%qt_47_3674%`
+   - Los Super villanos de Gotham City `%qt_47_6531%`
+   - Pato Lucas Blaster `%qt_47_6418%`
+   - Piñas Locas `%qt_47_3672%`
+   - Río Salvaje  `%qt_47_3678%`
+   - Rock & Roll `%qt_47_3671%`
+   - Rueda India  `%qt_47_3680%`
+   - Ruleta `%qt_47_3682%`
+   - Superman Krypton Coaster  `%qt_47_6535%`
+   - The Dark Knight Coaster `%qt_47_3669%`
+   - The Joker `%qt_47_3679%`
+   - The Joker y Harley Quinn `%qt_47_6534%`
+   - Tsunami `%qt_47_3670%`
+---
+ - **Kids' Rides** 
+   - Batman Baticopteros `%qt_47_6532%`
+   - El Campo de Aventuras de Looney Tunes `%qt_47_6438%`
+   - El Pingüino `%qt_47_6530%`
+   - El Tornado de Taz `%qt_47_6433%`
+   - La Escuela de Vuelo de Sam Bigotes  `%qt_47_6518%`
+   - La Mini Torre de Sylvestre `%qt_47_6528%`
+   - Looney Tunes Circo Express `%qt_47_6529%`
+   - Los Globos de Elmer  `%qt_47_6453%`
+   - Marvin el Marciano: Aventura Espacial `%qt_47_6439%`
+---
+ - **Other Rides** 
+   - Le Grand Carrousell `%qt_47_9905%`
+---
+ - **Thrill Rides** 
+   - Batman The Ride `%qt_47_3661%`
+   - Boomerang  `%qt_47_3662%`
+   - Crazanity `%qt_47_7338%`
+   - JUSTICE LEAGUE: BATTLE FOR METROPOLIS `%qt_47_3699%`
+   - Medusa Steel Coaster `%qt_47_3663%`
+   - Sling Shot  `%qt_47_3698%`
+   - Supergirl Sky Flight `%qt_47_9912%`
+   - Superman El Último Escape `%qt_47_3659%`
+   - Triple Torre Kilahuea `%qt_47_3660%`
+   - Wonder Woman Coaster  `%qt_47_5740%`
+   - X-Flight `%qt_47_3831%`
+---
+ - **Seasonal Rides** 
+   - Go Karts Teen Titans `%qt_47_9900%`
+   - Río Salvaje `%qt_47_10147%`
+---

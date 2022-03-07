@@ -1,1 +1,21 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags Hurricane Harbor, Los Angeles : 41
+ - **Family Rides** 
+   - Bamboo Racer `%qt_41_3438%`
+   - Forgotten Sea Wave Pool `%qt_41_3448%`
+   - Lost Temple Rapids `%qt_41_3440%`
+   - River Cruise `%qt_41_3441%`
+---
+ - **Kids' Rides** 
+   - Castaway Cove `%qt_41_3447%`
+   - Splash Island `%qt_41_3449%`
+---
+ - **Thrill Rides** 
+   - Black Snake Summit `%qt_41_3442%`
+   - Bonzai Pipelines `%qt_41_3451%`
+   - Lightning Falls `%qt_41_3443%`
+   - Python Plunge `%qt_41_3796%`
+   - Taboo Tower `%qt_41_3450%`
+   - Tiki Falls `%qt_41_3445%`
+   - Tornado `%qt_41_3446%`
+---

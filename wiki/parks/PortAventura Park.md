@@ -1,1 +1,47 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # PortAventura Park : 19
+ - **Others** 
+   - Angkor `%qt_19_584%`
+   - Área Infantil `%qt_19_585%`
+   - Armadillos `%qt_19_586%`
+   - Buffalo Rodeo `%qt_19_587%`
+   - Canoes `%qt_19_588%`
+   - Carousel `%qt_19_589%`
+   - Cobra Imperial `%qt_19_590%`
+   - CocoPiloto `%qt_19_591%`
+   - Crazy Barrels `%qt_19_592%`
+   - Dragon Khan `%qt_19_593%`
+   - El Árbol Mágico `%qt_19_594%`
+   - El Diablo Tren de la Mina `%qt_19_595%`
+   - El Huerto Encantado `%qt_19_596%`
+   - El Salto de Blas `%qt_19_597%`
+   - El Secreto de los Mayas `%qt_19_598%`
+   - Estació del Nord `%qt_19_599%`
+   - Furius Baco `%qt_19_600%`
+   - Grand Canyon Rapids `%qt_19_601%`
+   - Hurakán Condor `%qt_19_602%`
+   - Kon-Tiki Wave `%qt_19_604%`
+   - La Granja de Elmo `%qt_19_605%`
+   - Laberinto Blacksmith `%qt_19_606%`
+   - Loco - Loco Tiki `%qt_19_607%`
+   - Los potrillos `%qt_19_608%`
+   - Magic Fish `%qt_19_609%`
+   - Mariposas Saltarinas `%qt_19_610%`
+   - Penitence Games `%qt_19_6803%`
+   - Penitence Station `%qt_19_611%`
+   - Port de la Drassana `%qt_19_612%`
+   - Serpiente emplumada `%qt_19_613%`
+   - Sésamo Aventura Station `%qt_19_614%`
+   - Shambhala `%qt_19_615%`
+   - Silver River Flume `%qt_19_616%`
+   - Stampida `%qt_19_617%`
+   - Street Mission `%qt_19_6802%`
+   - Tami - Tami `%qt_19_618%`
+   - Tea Cups `%qt_19_619%`
+   - Tomahawk `%qt_19_620%`
+   - Tutuki Splash `%qt_19_621%`
+   - Volpaiute `%qt_19_622%`
+   - Waikiki `%qt_19_623%`
+   - Waitan port `%qt_19_624%`
+   - Wild Buffalos `%qt_19_625%`
+   - Yucatán `%qt_19_626%`

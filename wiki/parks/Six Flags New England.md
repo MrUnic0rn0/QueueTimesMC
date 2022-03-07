@@ -1,1 +1,93 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags New England : 43
+ - **Family Rides** 
+   - 1909 Illions Grand Carousel `%qt_43_3513%`
+   - Balloon Race `%qt_43_3514%`
+   - Blizzard River `%qt_43_3564%`
+   - CATWOMAN™ Whip `%qt_43_3515%`
+   - Kontiki `%qt_43_3516%`
+   - Scrambler `%qt_43_3517%`
+   - Stampede Bumper Cars `%qt_43_3519%`
+   - Tea Cups `%qt_43_3520%`
+   - Wild Wheelz `%qt_43_3525%`
+---
+ - **Kids' Rides** 
+   - Animation Department `%qt_43_3524%`
+   - Daffy Duck Hollywood Tours `%qt_43_3521%`
+   - Krazy Kars `%qt_43_3522%`
+   - Krazy Kups `%qt_43_3523%`
+   - New England Express `%qt_43_3567%`
+   - Rock N Rodeo `%qt_43_3886%`
+   - Ships Ahoy! `%qt_43_3526%`
+   - Taz Prop Delivery Company `%qt_43_3528%`
+   - The Great Chase `%qt_43_3529%`
+   - Tweety’s Clubhouse `%qt_43_3530%`
+   - Wacky Wagons `%qt_43_9577%`
+   - Whirlybirdz `%qt_43_3532%`
+   - Wile E. Coyote Speed Trap `%qt_43_3533%`
+   - Zinger Swings `%qt_43_3534%`
+   - ZoomJets `%qt_43_3535%`
+---
+ - **Thrill Rides** 
+   - BATMAN THE DARK KNIGHT™ `%qt_43_3536%`
+   - CYBORG™ Hyper Drive `%qt_43_6374%`
+   - Flashback `%qt_43_3539%`
+   - GOTHAM CITY GAUNTLET ESCAPE FROM ARKHAM ASYLUM™ `%qt_43_3540%`
+   - GOTHAM CITY™ Crime Wave `%qt_43_3538%`
+   - HARLEY QUINN™ Spinsanity `%qt_43_6080%`
+   - Houdini – The Great Escape `%qt_43_3541%`
+   - New England SkyScreamer `%qt_43_3569%`
+   - NIGHTWING™ `%qt_43_9556%`
+   - Pandemonium `%qt_43_3543%`
+   - Scream `%qt_43_3544%`
+   - SUPERGIRL Sky Flyer  `%qt_43_8879%`
+   - SUPERMAN™ The Ride `%qt_43_3571%`
+   - THE JOKER™ 4D Free Fly Coaster `%qt_43_4692%`
+   - THE RIDDLER™ Revenge `%qt_43_3565%`
+   - Thunderbolt `%qt_43_3546%`
+   - Tomahawk `%qt_43_3547%`
+   - Wicked Cyclone `%qt_43_3570%`
+---
+ - **Water Rides** 
+   - Adventure River `%qt_43_3548%`
+   - Big Kahuna `%qt_43_3549%`
+   - Bonzai Pipelines `%qt_43_3568%`
+   - Cannonball Falls `%qt_43_3560%`
+   - Commotion Ocean `%qt_43_3550%`
+   - Geronimo Falls and Zooma Falls `%qt_43_3551%`
+   - Hook’s Lagoon `%qt_43_9539%`
+   - Hurricane Bay `%qt_43_3553%`
+   - Hurricane Falls `%qt_43_3554%`
+   - Kiddie Pirate Ship `%qt_43_3558%`
+   - Monsoon Lagoon `%qt_43_3555%`
+   - Shark Attack `%qt_43_3561%`
+   - Splash Island `%qt_43_3559%`
+   - Swiss Family Toboggan `%qt_43_3556%`
+   - Tornado `%qt_43_3562%`
+   - Typhoon `%qt_43_3563%`
+---
+ - **Seasonal Rides** 
+   - Academy for Gifted Ghouls `%qt_43_9601%`
+   - Candy Cane Crossing `%qt_43_10284%`
+   - CarnEvil `%qt_43_5167%`
+   - Demon District `%qt_43_4049%`
+   - HELL’S BELLES `%qt_43_9607%`
+   - Jingle Bell Junction `%qt_43_10285%`
+   - Kringle Lane `%qt_43_10286%`
+   - Midnight Mansion `%qt_43_4045%`
+   - Midnight Uprising `%qt_43_9611%`
+   - Mort’s Used Coffins `%qt_43_9613%`
+   - Nightmares `%qt_43_9615%`
+   - Polar Playland `%qt_43_10287%`
+   - Slasher Circus 3D `%qt_43_4046%`
+   - Slaughter Hollow `%qt_43_6063%`
+   - Spooktacular Street Party `%qt_43_9621%`
+   - Sugar Plum Place `%qt_43_10288%`
+   - TERROR TALES `%qt_43_9625%`
+   - The Aftermath: Zombie’s Revenge `%qt_43_4077%`
+   - The Awakening `%qt_43_9627%`
+   - Tombstone TerrorTory `%qt_43_4051%`
+   - Trick or Treat Trail `%qt_43_4089%`
+   - Undead Alley `%qt_43_4052%`
+   - Wonderland Way `%qt_43_10289%`
+---

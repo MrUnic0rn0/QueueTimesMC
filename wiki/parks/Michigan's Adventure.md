@@ -1,1 +1,62 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Michigan's Adventure : 70
+ - **Coasters** 
+   - Corkscrew `%qt_70_8730%`
+   - Mad Mouse `%qt_70_6548%`
+   - Shivering Timbers `%qt_70_6546%`
+   - Thunderhawk `%qt_70_6547%`
+   - Wolverine Wildcat `%qt_70_6551%`
+   - Woodstock Express `%qt_70_8752%`
+   - Zach's Zoomer `%qt_70_8754%`
+---
+ - **Family** 
+   - Beagle Scout Lookout `%qt_70_9063%`
+   - Camp Bus `%qt_70_9062%`
+   - Carousel `%qt_70_8729%`
+   - Drummer Boy `%qt_70_8733%`
+   - Frog Hopper `%qt_70_8736%`
+   - Giant Gondola Wheel `%qt_70_8735%`
+   - Lakeside Gliders `%qt_70_8739%`
+   - PEANUTS Trailblazers `%qt_70_9064%`
+   - Pig Pen's Mud Buggies `%qt_70_9065%`
+   - Scrambler `%qt_70_8744%`
+   - Sea Dragon `%qt_70_8745%`
+   - Speed Splashers `%qt_70_8746%`
+   - Swan Boats `%qt_70_8747%`
+   - Thunderbolt `%qt_70_8748%`
+   - Tilt-A-Whirl `%qt_70_8749%`
+   - Timbertown Railway `%qt_70_8751%`
+   - Trabant `%qt_70_8750%`
+   - Winky The Whale `%qt_70_8753%`
+---
+ - **Kids** 
+   - Airplanes `%qt_70_8726%`
+   - Elephants `%qt_70_8732%`
+   - Kiddie Cars `%qt_70_8738%`
+   - Motorcycles `%qt_70_8742%`
+---
+ - **Thrill** 
+   - Adventure Falls `%qt_70_8727%`
+   - Dodgem `%qt_70_8731%`
+   - Flying Trapeze `%qt_70_8734%`
+   - Grand Rapids `%qt_70_6550%`
+   - HydroBlaster `%qt_70_8737%`
+   - Logger's Run `%qt_70_6549%`
+   - RipCord `%qt_70_8743%`
+---
+ - **Wildwater Adventure** 
+   - Beach Party `%qt_70_7793%`
+   - Boogie Beach `%qt_70_8728%`
+   - Commotion Ocean `%qt_70_7761%`
+   - Cyclone Zone `%qt_70_7756%`
+   - Funnel of Fear `%qt_70_7764%`
+   - Half-Pint Paradise `%qt_70_7803%`
+   - Lagoon `%qt_70_7781%`
+   - Lazy River `%qt_70_7774%`
+   - Mammoth River `%qt_70_8740%`
+   - Mine Shaft `%qt_70_7789%`
+   - Paradise Plunge / Tropical Twist `%qt_70_7799%`
+   - Slidewinders `%qt_70_7785%`
+   - Snake Pit `%qt_70_7769%`
+   - Tidal Wave `%qt_70_7752%`
+---

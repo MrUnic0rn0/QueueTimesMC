@@ -1,1 +1,28 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Legoland Japan : 285
+ - **Others** 
+   - Anchors Away! `%qt_285_7100%`
+   - Beetle Bounce `%qt_285_7116%`
+   - Brick Party `%qt_285_7118%`
+   - Cargo Ace `%qt_285_7104%`
+   - Cat Cloud Busters `%qt_285_7105%`
+   - City Airport `%qt_285_7109%`
+   - Coast Guard HQ `%qt_285_7106%`
+   - Dragon's Apprentice `%qt_285_7115%`
+   - Driving School `%qt_285_7114%`
+   - DUPLO® Express `%qt_285_7113%`
+   - Flying NINJAGO `%qt_285_7117%`
+   - Imagination Celebration `%qt_285_7101%`
+   - Jr. Driving School `%qt_285_7110%`
+   - Kai's Sky Masters `%qt_285_7103%`
+   - LEGO ® Factory Tour `%qt_285_7121%`
+   - Lloyd's Spinjitzu Spinner `%qt_285_7123%`
+   - Lost Kingdom Adventure `%qt_285_7124%`
+   - Merlin's Challenge `%qt_285_7119%`
+   - Merlin's Flying Machines `%qt_285_7120%`
+   - Observation Tower `%qt_285_7102%`
+   - Rescue Academy `%qt_285_7122%`
+   - S.Q.U.I.D. Surfer `%qt_285_7111%`
+   - Splash Battle `%qt_285_7112%`
+   - Submarine Adventure `%qt_285_7107%`
+   - The Dragon `%qt_285_7108%`

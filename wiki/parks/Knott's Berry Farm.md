@@ -1,1 +1,46 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Knott's Berry Farm : 61
+ - **Coasters** 
+   - Coast Rider `%qt_61_5929%`
+   - GhostRider `%qt_61_5912%`
+   - HangTime `%qt_61_5911%`
+   - Jaguar! `%qt_61_5922%`
+   - Pony Express `%qt_61_5930%`
+   - Sierra Sidewinder `%qt_61_5919%`
+   - Silver Bullet `%qt_61_5923%`
+   - Xcelerator The Ride® `%qt_61_5918%`
+---
+ - **Family** 
+   - Bigfoot Rapids `%qt_61_5920%`
+   - Butterfield Stagecoach `%qt_61_8916%`
+   - Calico Mine Ride `%qt_61_5913%`
+   - Calico Railroad `%qt_61_7712%`
+   - Dragon Swing `%qt_61_7705%`
+   - Hat Dance `%qt_61_7702%`
+   - Knott's Bear-y Tales: Return to the Fair `%qt_61_8871%`
+   - Pacific Scrambler `%qt_61_7731%`
+   - Sky Cabin `%qt_61_6352%`
+   - Surfside Gliders `%qt_61_7726%`
+   - Timber Mountain Log Ride `%qt_61_5926%`
+   - Timberline Twister `%qt_61_7686%`
+   - WaveSwinger `%qt_61_7696%`
+   - Wheeler Dealer Bumper Cars `%qt_61_7694%`
+---
+ - **Kids** 
+   - Balloon Race `%qt_61_7735%`
+   - Camp Bus `%qt_61_7746%`
+   - Charlie Brown's Kite Flyer `%qt_61_7765%`
+   - Flying Ace `%qt_61_7754%`
+   - Linus Launcher `%qt_61_7772%`
+   - Pig Pen's Mud Buggies `%qt_61_7776%`
+   - Rapid River Run `%qt_61_7750%`
+   - Rocky Mountain Trucking Company `%qt_61_7758%`
+   - Woodstock's Airmail `%qt_61_7742%`
+---
+ - **Other Rides** 
+   - Trip To Beagle Bonanza `%qt_61_10458%`
+---
+ - **Thrill** 
+   - La Revolucion `%qt_61_7688%`
+   - Supreme Scream `%qt_61_5921%`
+---

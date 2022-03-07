@@ -1,1 +1,33 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Thorpe Park : 2
+ - **Coasters** 
+   - Colossus `%qt_2_96%`
+   - Nemesis Inferno `%qt_2_88%`
+   - SAW - The Ride `%qt_2_104%`
+   - Stealth `%qt_2_91%`
+   - Swarm `%qt_2_103%`
+   - The Walking Dead: The Ride `%qt_2_5558%`
+---
+ - **Family rides** 
+   - Banana Ride `%qt_2_109%`
+   - Depth Charge `%qt_2_108%`
+   - Flying Fish `%qt_2_93%`
+   - King Pigs Dodgems `%qt_2_3884%`
+   - Lumber Jump `%qt_2_5502%`
+   - Rocky Express `%qt_2_107%`
+   - Storm in a Teacup `%qt_2_95%`
+   - Timber Tug `%qt_2_5506%`
+---
+ - **Thrill rides** 
+   - Black Mirror `%qt_2_8835%`
+   - Derren Brown `%qt_2_4546%`
+   - Detonator `%qt_2_89%`
+   - Quantum `%qt_2_102%`
+   - Rumba Rapids `%qt_2_90%`
+   - Rush `%qt_2_98%`
+   - Samurai `%qt_2_99%`
+   - Storm Surge `%qt_2_94%`
+   - Tidal Wave `%qt_2_92%`
+   - Vortex `%qt_2_100%`
+   - Zodiac `%qt_2_101%`
+---

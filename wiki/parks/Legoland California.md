@@ -1,1 +1,48 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Legoland California : 279
+ - **Castle Hill** 
+   - Dragon Coaster `%qt_279_6923%`
+   - LEGO® City: Deep Sea Adventure `%qt_279_6912%`
+   - Royal Joust `%qt_279_6918%`
+---
+ - **Explorer Island** 
+   - Coastersaurus `%qt_279_6903%`
+   - Fairy Tale Brook `%qt_279_6906%`
+   - Safari Trek `%qt_279_6919%`
+---
+ - **Fun Town** 
+   - Driving School `%qt_279_6904%`
+   - Fun Town Police and Fire Academy `%qt_279_6907%`
+   - Junior Driving School `%qt_279_6908%`
+   - Kid Power Tower `%qt_279_6909%`
+   - LEGOLAND® Express `%qt_279_6911%`
+   - Skipper School `%qt_279_6920%`
+   - Sky Patrol `%qt_279_6921%`
+---
+ - **Imagination Zone** 
+   - AQUAZONE® Wave Racer `%qt_279_6897%`
+   - BIONICLE® Blaster `%qt_279_6899%`
+   - LEGO® Technic Coaster `%qt_279_6914%`
+---
+ - **Land of Adventure** 
+   - Beetle Bounce `%qt_279_6898%`
+   - CARGO ACE `%qt_279_6901%`
+   - Dune Raiders `%qt_279_6905%`
+   - Lost Kingdom Adventure `%qt_279_6915%`
+---
+ - **LEGO® NINJAGO® WORLD** 
+   - LEGO® NINJAGO® The Ride `%qt_279_6913%`
+---
+ - **Miniland USA** 
+   - Coast Cruise `%qt_279_6902%`
+---
+ - **Pirate Shores** 
+   - Captain Cranky's Challenge `%qt_279_6900%`
+   - Pirate Reef `%qt_279_6917%`
+   - Splash Battle `%qt_279_6922%`
+---
+ - **THE LEGO® MOVIE™ WORLD** 
+   - Emmet's Flying Adventure Ride `%qt_279_8838%`
+   - Queen Watevra’s Carousel `%qt_279_6916%`
+   - Unikitty's Disco Drop `%qt_279_8837%`
+---

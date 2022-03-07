@@ -1,1 +1,65 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags Darien Lake : 281
+ - **Family Rides** 
+   - Grand Prix Speedway `%qt_281_6993%`
+   - Haymaker `%qt_281_6995%`
+   - Hornet’s Nest `%qt_281_9669%`
+   - Lasso `%qt_281_6996%`
+   - Moose on the Loose `%qt_281_6989%`
+   - Rowdy’s Heave Ho `%qt_281_9691%`
+   - Scrambler `%qt_281_7003%`
+   - Shipwreck Falls `%qt_281_6983%`
+   - Silver Bullet `%qt_281_6999%`
+   - Sleighride `%qt_281_7000%`
+   - Tin Lizzy’s `%qt_281_9708%`
+---
+ - **Kids' Rides** 
+   - Hoot’N’ Holler `%qt_281_9668%`
+   - Raccoon Rally `%qt_281_7010%`
+   - Tree Stump Turnpike `%qt_281_7011%`
+   - Wally’s Weather Balloons `%qt_281_9716%`
+   - Woody’s Whirlers `%qt_281_9718%`
+---
+ - **Thrill Rides** 
+   - Mind Eraser `%qt_281_6976%`
+   - Motocoaster `%qt_281_6977%`
+   - Predator `%qt_281_6978%`
+   - Red Hawk `%qt_281_6979%`
+   - Ride of Steel `%qt_281_6980%`
+   - Rolling Thunder `%qt_281_6974%`
+   - Sky Screamer `%qt_281_9729%`
+   - Tantrum `%qt_281_7022%`
+   - Viper `%qt_281_6985%`
+---
+ - **Water Rides** 
+   - Hook’s Lagoon `%qt_281_9666%`
+   - RipCurl Racer `%qt_281_7014%`
+   - Swirl City Slide Complex `%qt_281_7020%`
+   - Tornado `%qt_281_7021%`
+---
+ - **Seasonal Rides** 
+   - Bear Valley Bumper Buggies `%qt_281_7002%`
+   - Beaver Dam Explorer `%qt_281_7004%`
+   - Big Kahuna `%qt_281_7016%`
+   - Blast Off `%qt_281_6984%`
+   - Boat Docks – Midway Marina `%qt_281_9654%`
+   - Boomerang `%qt_281_6975%`
+   - Brain Drain `%qt_281_7015%`
+   - Bucky’s Barrels `%qt_281_9657%`
+   - Camp Scumshine `%qt_281_7180%`
+   - Chucky’s Mud Buckets `%qt_281_9658%`
+   - Corn Popper `%qt_281_6991%`
+   - Corridors of Chaos `%qt_281_7183%`
+   - Creep Show Freak Show `%qt_281_7176%`
+   - Critter Chase `%qt_281_7008%`
+   - Crocodile Isle `%qt_281_7017%`
+   - Flotation Station `%qt_281_7018%`
+   - Grand Carousel `%qt_281_6994%`
+   - Hotel Terror: 7 Deadly Sins `%qt_281_7182%`
+   - Jungle Apocalypse `%qt_281_7178%`
+   - Passage of the Damned `%qt_281_7179%`
+   - ScreamPunk `%qt_281_7181%`
+   - Slingshot `%qt_281_6981%`
+   - Voodoo Curse `%qt_281_7177%`
+   - Wahoo Wave `%qt_281_10464%`
+---

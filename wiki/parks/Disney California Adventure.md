@@ -1,1 +1,44 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Disney California Adventure : 17
+ - **Avengers Campus** 
+   - Guardians of the Galaxy – Mission: Breakout! `%qt_17_329%`
+   - WEB SLINGERS: A Spider-Man Adventure `%qt_17_8843%`
+---
+ - **Buena Vista Street** 
+   - Red Car Trolley - Buena Vista Street `%qt_17_873%`
+---
+ - **Cars Land** 
+   - Luigi's Rollickin' Roadsters `%qt_17_2608%`
+   - Mater's Junkyard Jamboree `%qt_17_315%`
+   - Radiator Springs Racers `%qt_17_295%`
+---
+ - **Grizzly Peak** 
+   - Grizzly River Run `%qt_17_302%`
+   - Redwood Creek Challenge Trail `%qt_17_293%`
+   - Soarin' Over California `%qt_17_312%`
+---
+ - **Hollywood Land** 
+   - Animation Academy `%qt_17_321%`
+   - Mickey's PhilharMagic `%qt_17_6440%`
+   - Monsters, Inc. Mike & Sulley to the Rescue! `%qt_17_291%`
+   - Sorcerer's Workshop `%qt_17_868%`
+   - Turtle Talk with Crush `%qt_17_294%`
+---
+ - **Pacific Wharf** 
+   - The Bakery Tour `%qt_17_9006%`
+   - Walt Disney Imagineering Blue Sky Cellar  `%qt_17_870%`
+---
+ - **Pixar Pier** 
+   - Games of Pixar Pier `%qt_17_9005%`
+   - Golden Zephyr `%qt_17_298%`
+   - Goofy's Sky School `%qt_17_319%`
+   - Incredicoaster `%qt_17_322%`
+   - Inside Out Emotional Whirlwind `%qt_17_6643%`
+   - Jumpin' Jellyfish `%qt_17_300%`
+   - King Triton's Carousel `%qt_17_310%`
+   - Mickey's Fun Wheel `%qt_17_311%`
+   - Pixar Pal-A-Round – Non-Swinging `%qt_17_5557%`
+   - Silly Symphony Swings `%qt_17_301%`
+   - The Little Mermaid - Ariel's Undersea Adventure `%qt_17_316%`
+   - Toy Story Midway Mania! `%qt_17_313%`
+---

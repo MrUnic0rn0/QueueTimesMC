@@ -1,1 +1,119 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags Great America : 38
+ - **Family Rides** 
+   - A RIDE INFORMATION CENTER `%qt_38_8797%`
+   - Big Easy Balloons `%qt_38_3291%`
+   - Buccaneer Battle `%qt_38_3346%`
+   - Chubasco `%qt_38_3293%`
+   - Columbia Carousel `%qt_38_3294%`
+   - Condor `%qt_38_3295%`
+   - Fiddler’s Fling `%qt_38_3296%`
+   - Hometown Fun Machine `%qt_38_3297%`
+   - Logger’s Run `%qt_38_3347%`
+   - Ricochet `%qt_38_3300%`
+   - River Rocker `%qt_38_3301%`
+   - Roaring Rapids `%qt_38_3349%`
+   - Rue Le Dodge `%qt_38_3302%`
+   - Scenic Railway County Fair  `%qt_38_3877%`
+   - Scenic Railway Hometown Square `%qt_38_8569%`
+   - Sky Trek Tower `%qt_38_3350%`
+   - THE DARK KNIGHT Coaster `%qt_38_3320%`
+   - The Lobster  `%qt_38_3343%`
+   - Triple Play `%qt_38_3303%`
+   - Whirligig `%qt_38_3340%`
+   - Whizzer `%qt_38_3341%`
+   - Winner’s Circle Go Karts `%qt_38_3322%`
+   - Yahoo River `%qt_38_3310%`
+   - Yankee Clipper `%qt_38_3351%`
+---
+ - **Kids' Rides** 
+   - Bouncer `%qt_38_3342%`
+   - Crazy Bus `%qt_38_3306%`
+   - Krazy Kars `%qt_38_3339%`
+   - Krazy Kups `%qt_38_3344%`
+   - Lady Bugs `%qt_38_3355%`
+   - Little Dipper `%qt_38_3305%`
+   - Red Baron  `%qt_38_3353%`
+   - Spacely’s Sprocket Rockets `%qt_38_8571%`
+   - Tot’s Livery `%qt_38_8577%`
+   - Up, Up & Away `%qt_38_3309%`
+   - ZoomJets `%qt_38_3311%`
+---
+ - **Thrill Rides** 
+   -  Mardi Gras Hangover  `%qt_38_5153%`
+   - American Eagle `%qt_38_3312%`
+   - Batman The Ride `%qt_38_3313%`
+   - Dare Devil Dive `%qt_38_3314%`
+   - Demon `%qt_38_3315%`
+   - Giant Drop `%qt_38_3316%`
+   - Goliath `%qt_38_3352%`
+   - JUSTICE LEAGUE: Battle for Metropolis `%qt_38_3356%`
+   - Maxx Force `%qt_38_7137%`
+   - Raging Bull `%qt_38_3318%`
+   - Revolution `%qt_38_3319%`
+   - Superman Ultimate Flight `%qt_38_3290%`
+   - THE JOKER Free Fly Coaster `%qt_38_3913%`
+   - Vertical Velocity `%qt_38_3321%`
+   - Viper `%qt_38_3345%`
+   - X Flight `%qt_38_3323%`
+---
+ - **Seasonal Rides** 
+   - 13th Order `%qt_38_7175%`
+   - Big Top Terror `%qt_38_4032%`
+   - Bloodshed `%qt_38_9893%`
+   - Camp Cartoon `%qt_38_10073%`
+   - Character Candy Trail `%qt_38_10071%`
+   - Condemned `%qt_38_9891%`
+   - Dark Waters `%qt_38_7140%`
+   - Demon Lair `%qt_38_9874%`
+   - Elegance `%qt_38_10377%`
+   - Elegance Light Show `%qt_38_10082%`
+   - Festive Photo Ops `%qt_38_10393%`
+   - Forbidden Forest  `%qt_38_4092%`
+   - Gates of Hell `%qt_38_9885%`
+   - Henchmen Alley `%qt_38_5126%`
+   - Holiday Characters `%qt_38_10084%`
+   - Holiday Fun House `%qt_38_10412%`
+   - Holiday Meal `%qt_38_10371%`
+   - Holiday Square `%qt_38_10388%`
+   - Holiday Treasures `%qt_38_6311%`
+   - Home for the Holidays `%qt_38_10385%`
+   - Hometown Park `%qt_38_10072%`
+   - Jingle Bell Jazz `%qt_38_10379%`
+   - Jolly Lane `%qt_38_10382%`
+   - Kalightoscope `%qt_38_10391%`
+   - Kalightoscope Light Show `%qt_38_10083%`
+   - Kid’s Club Monster Dance Party `%qt_38_9879%`
+   - KIDZOPOLIS `%qt_38_10074%`
+   - Letters to Santa `%qt_38_6309%`
+   - Lost Circus `%qt_38_7139%`
+   - Lost Souls `%qt_38_9881%`
+   - Love at First Fright  `%qt_38_4726%`
+   - Manslaughter Manor `%qt_38_4030%`
+   - Merry Mardi Gras `%qt_38_10381%`
+   - Merry Market Place `%qt_38_6306%`
+   - Merry Market Place Drive `%qt_38_10392%`
+   - Monster Bash `%qt_38_9890%`
+   - Nightmares `%qt_38_9884%`
+   - Peppermint Funnel Cake Sundae `%qt_38_10369%`
+   - Refillable Hot Mug `%qt_38_10372%`
+   - Ride Cemetery  `%qt_38_4100%`
+   - Roasted Marshmallows & S’mores Galore `%qt_38_10368%`
+   - Santa’s Workshop `%qt_38_10378%`
+   - Snowman City `%qt_38_10380%`
+   - Soup in a Bread Bowl `%qt_38_10370%`
+   - Sugar Plum Keepsakes `%qt_38_10375%`
+   - Tamales `%qt_38_10384%`
+   - The Nightmare Rhythm Machine `%qt_38_9892%`
+   - The North Pole `%qt_38_10387%`
+   - The Ringmaster’s Cabaret `%qt_38_9886%`
+   - The Uprising Parade: Nightly Call of the Dead `%qt_38_9888%`
+   - The Witching Hour `%qt_38_10070%`
+   - Toyland `%qt_38_10390%`
+   - Trudy’s Cookie Decorating `%qt_38_10383%`
+   - Trudy’s Sweet Shoppe `%qt_38_10376%`
+   - Underworld `%qt_38_5127%`
+   - Visit Santa `%qt_38_10367%`
+   - Winter Wonderlane `%qt_38_10389%`
+   - Wretched Meadows `%qt_38_7138%`
+---

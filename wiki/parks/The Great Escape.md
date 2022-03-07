@@ -1,1 +1,61 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # The Great Escape : 45
+ - **Family Rides** 
+   - Balloon Race `%qt_45_3586%`
+   - Blizzard `%qt_45_3629%`
+   - Cannonball Express `%qt_45_3588%`
+   - Canyon Blaster `%qt_45_3589%`
+   - Desperado Plunge `%qt_45_3591%`
+   - Flying Trapeze `%qt_45_3631%`
+   - Grand Carousel `%qt_45_3594%`
+   - Marshal’s Stampede Indoor Bumper Cars `%qt_45_3587%`
+   - Raging River `%qt_45_3597%`
+   - Ranger Randy’s Scenic Railway `%qt_45_9646%`
+   - Screamin’ Eagles `%qt_45_3598%`
+   - Sky Ride `%qt_45_3599%`
+   - Storytown Train `%qt_45_3600%`
+   - Swan Boats `%qt_45_3601%`
+   - Thunder Alley `%qt_45_3602%`
+---
+ - **Kids' Rides** 
+   - Convoy `%qt_45_3604%`
+   - Frankie’s Mine Train `%qt_45_3592%`
+   - Hootie’s Treehouse `%qt_45_3605%`
+   - Island Air Adventures `%qt_45_9614%`
+   - Oakley’s Honey Swings `%qt_45_3595%`
+   - Rocky’s Ranger Planes `%qt_45_3609%`
+   - Sheldon’s Speedway `%qt_45_3610%`
+   - Spruce’s Wilderness Bus Tours `%qt_45_3611%`
+---
+ - **Thrill Rides** 
+   - Adirondack Outlaw `%qt_45_9042%`
+   - Alpine Bobsled `%qt_45_3613%`
+   - Comet `%qt_45_3618%`
+   - Condor `%qt_45_3590%`
+   - Extreme Supernova `%qt_45_3627%`
+   - Flashback `%qt_45_9600%`
+   - Greezed Lightnin’ `%qt_45_3633%`
+   - Olympiad Grand Prix Go-Karts `%qt_45_9620%`
+   - Pandemonium `%qt_45_5154%`
+   - Sasquatch `%qt_45_3615%`
+   - Steamin’ Demon `%qt_45_3617%`
+---
+ - **Water Rides** 
+   - Adventure River `%qt_45_9566%`
+   - Bamboo Shoots `%qt_45_9574%`
+   - Banshee Plunge `%qt_45_3619%`
+   - Big Kahuna `%qt_45_9578%`
+   - Blue Typhoon `%qt_45_3628%`
+   - Bonzai Pipelines `%qt_45_3919%`
+   - Buccaneer Beach `%qt_45_3632%`
+   - Bucket Blasters `%qt_45_6375%`
+   - Hurricane Bay `%qt_45_9612%`
+   - Paradise Plunge `%qt_45_6458%`
+   - Shipwreck Cove `%qt_45_9043%`
+   - Tornado `%qt_45_3625%`
+   - Typhoon Twister `%qt_45_9642%`
+   - Wahoo Racer `%qt_45_9643%`
+---
+ - **Seasonal Rides** 
+   - Zombie Bash `%qt_45_10098%`
+---

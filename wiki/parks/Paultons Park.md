@@ -1,1 +1,45 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Paultons Park : 49
+ - **Critter Creek** 
+   - Cat-O-Pillar Coaster `%qt_49_6938%`
+   - Professor Blast's Expedition Express `%qt_49_6945%`
+---
+ - **Family** 
+   - Tea Cup Ride `%qt_49_6957%`
+   - The Rio Grande Train `%qt_49_8687%`
+   - The Sky Swinger `%qt_49_6962%`
+   - The Victorian Carousel `%qt_49_6963%`
+   - Viking Boat Ride `%qt_49_6966%`
+---
+ - **Lost Kingdom** 
+   - Boulder Dash `%qt_49_6937%`
+   - Dino Chase `%qt_49_6942%`
+   - Temple Heights `%qt_49_6958%`
+   - The Dinosaur Tour Co. `%qt_49_6959%`
+   - The Flight of the Pterosaur `%qt_49_6960%`
+   - Velociraptor `%qt_49_6965%`
+---
+ - **Peppa Pig World** 
+   - Daddy Pig's Car Ride `%qt_49_6940%`
+   - George's Dinosaur Adventure `%qt_49_6946%`
+   - George's Spaceship Play Zone `%qt_49_10003%`
+   - Grampy Rabbit's Sailing Club `%qt_49_6947%`
+   - Grandpa Pig's Boat Trip `%qt_49_6948%`
+   - Grandpa Pig's Little Train `%qt_49_6949%`
+   - Miss Rabbit's Helicopter Flight `%qt_49_6952%`
+   - Peppa's Big Balloon Ride `%qt_49_6953%`
+   - The Queen's Flying Coach Ride `%qt_49_6961%`
+   - Windy Castle `%qt_49_6967%`
+---
+ - **Thrill** 
+   - Kontiki `%qt_49_6950%`
+   - Pirate Ship `%qt_49_6954%`
+---
+ - **Tornado Springs** 
+   - Al's Auto Academy `%qt_49_8706%`
+   - Buffalo Falls `%qt_49_6973%`
+   - Cyclonator `%qt_49_8685%`
+   - Storm Chaser `%qt_49_8684%`
+   - Trekking Tractors `%qt_49_6964%`
+   - Windmill Towers `%qt_49_8686%`
+---

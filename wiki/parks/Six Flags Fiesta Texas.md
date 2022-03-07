@@ -1,1 +1,72 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Six Flags Fiesta Texas : 39
+ - **Family Rides** 
+   - Buckarooz `%qt_39_3359%`
+   - Bugs’ White Water Rapids `%qt_39_3360%`
+   - Crow’s Nest `%qt_39_3361%`
+   - Daffy’s School Bus Express `%qt_39_3362%`
+   - Fender Bender `%qt_39_3364%`
+   - Fiesta Texas Railroad `%qt_39_8599%`
+   - Foghorn Leghorn’s Barnyard Railway `%qt_39_3365%`
+   - Hustler `%qt_39_3380%`
+   - Kinderstein `%qt_39_3369%`
+   - Krazy Kars `%qt_39_3402%`
+   - Paradise Cove `%qt_39_3406%`
+   - Pirate Ship Play Zone `%qt_39_8616%`
+   - Splashwater Springs `%qt_39_3392%`
+   - Streamliner Coaster `%qt_39_3368%`
+   - Super-Villains Swing `%qt_39_7057%`
+   - Taz’s Tornado `%qt_39_3378%`
+   - Texas Treehouse `%qt_39_3393%`
+   - The Grand Carousel `%qt_39_8630%`
+   - Up, Up & Away `%qt_39_3383%`
+   - White Water Canyon `%qt_39_3400%`
+   - Yosemite Sam’s Wacky Wagons `%qt_39_3387%`
+   - ZoomJets `%qt_39_3388%`
+---
+ - **Kids' Rides** 
+   - Bamboo Chutes `%qt_39_3405%`
+   - Bermuda Triangle `%qt_39_3395%`
+   - Boomerang `%qt_39_3358%`
+   - Fireball `%qt_39_3410%`
+   - Go-Karts `%qt_39_3366%`
+   - Gully Washer `%qt_39_3379%`
+   - Lone Star Lagoon `%qt_39_3391%`
+   - Pandemonium `%qt_39_3370%`
+   - Paradise Plunge `%qt_39_8615%`
+   - Pirates of the Deep Sea  `%qt_39_6343%`
+   - Riptide Runner `%qt_39_8618%`
+   - Road Runner Express `%qt_39_3372%`
+   - Screamin' Eagle Zipline `%qt_39_3409%`
+   - Slingshot `%qt_39_8627%`
+   - Spinsanity `%qt_39_3412%`
+   - Texas Tumble `%qt_39_3394%`
+   - Wave Runner `%qt_39_3384%`
+---
+ - **Thrill Rides** 
+   - **NEW** The Houngan House of Voodoo `%qt_39_9511%`
+   - Bahama Blaster `%qt_39_3404%`
+   - BATMAN: The Ride `%qt_39_3408%`
+   - Big Bender `%qt_39_3389%`
+   - Dare Devil Dive Flying Machines `%qt_39_8307%`
+   - Dr. Diabolical’s Cliffhanger `%qt_39_9501%`
+   - Goliath `%qt_39_3367%`
+   - Hurricane Force 5 `%qt_39_3411%`
+   - Iron Rattler `%qt_39_3401%`
+   - Poltergeist `%qt_39_3371%`
+   - Scream `%qt_39_3374%`
+   - SkyScreamer `%qt_39_3375%`
+   - SUPERMAN: Krypton Coaster `%qt_39_3377%`
+   - The Joker Carnival of Chaos `%qt_39_6373%`
+   - Thunder Rapids Water Coaster `%qt_39_3921%`
+   - Tornado `%qt_39_3397%`
+   - Typhoon Twister `%qt_39_8633%`
+   - Whirlpool `%qt_39_3399%`
+   - WONDER WOMAN Golden Lasso Coaster `%qt_39_5480%`
+---
+ - **Seasonal Rides** 
+   - H2Ho Ho Ho `%qt_39_10162%`
+   - Mardi Gras Parade `%qt_39_10450%`
+---
+ - **Shows** 
+---

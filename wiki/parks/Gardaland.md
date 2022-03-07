@@ -1,1 +1,40 @@
+<a href="../parks_available.md">&laquo; Back</a>
 # Gardaland : 12
+ - **Adrenaline** 
+   - Blue Tornado `%qt_12_450%`
+   - Magic House `%qt_12_448%`
+   - Oblivion `%qt_12_1905%`
+   - Raptor `%qt_12_452%`
+   - Sequoia Magic Loop `%qt_12_451%`
+   - Shaman `%qt_12_443%`
+   - Space Vertigo `%qt_12_6696%`
+---
+ - **Adventure** 
+   - Colorado Boat `%qt_12_445%`
+   - Fuga da Atlantide `%qt_12_444%`
+   - I Corsari `%qt_12_6647%`
+   - Jungle Rapids `%qt_12_453%`
+   - Kung Fu Panda Master `%qt_12_3740%`
+   - Mammut `%qt_12_454%`
+   - Ramses `%qt_12_446%`
+   - Wonder Woman `%qt_12_7327%`
+---
+ - **Fantasy** 
+   - Baby Pilota `%qt_12_8842%`
+   - Doremifarm `%qt_12_6687%`
+   - Flying Island `%qt_12_6685%`
+   - Foresta Incantata `%qt_12_6646%`
+   - Funny Express `%qt_12_6686%`
+   - Giostra Cavalli `%qt_12_6684%`
+   - Il trenino di Nonno Pig `%qt_12_6695%`
+   - L'isola dei Pirati `%qt_12_6693%`
+   - La casa di Peppa Pig `%qt_12_6694%`
+   - Mongolfiera di Peppa Pig `%qt_12_6698%`
+   - Monorotaia `%qt_12_6689%`
+   - Mr Ping's noodle surprise `%qt_12_6692%`
+   - Ortobruco Tour `%qt_12_447%`
+   - Peter Pan `%qt_12_6690%`
+   - Superbaby `%qt_12_6691%`
+   - Transgardaland Express `%qt_12_6683%`
+   - Volaplano `%qt_12_449%`
+---
