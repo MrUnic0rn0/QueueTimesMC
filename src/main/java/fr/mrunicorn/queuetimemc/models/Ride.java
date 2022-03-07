@@ -1,4 +1,4 @@
-package fr.mrunicorn.queuetimemc.controllers;
+package fr.mrunicorn.queuetimemc.models;
 
 public class Ride {
     private final Integer id;
