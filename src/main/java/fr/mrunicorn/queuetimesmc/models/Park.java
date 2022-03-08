@@ -3,6 +3,7 @@ package fr.mrunicorn.queuetimesmc.models;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
+import fr.mrunicorn.queuetimesmc.QueueTimesMC;
 import fr.mrunicorn.queuetimesmc.controllers.ParkController;
 
 import java.io.IOException;
@@ -85,14 +86,14 @@ public class Park {
     }
 
     public String getRideList(int nb_page) {
-        int max_page = rides.size() / 10 + ((rides.size() % 10 != 0) ? 1 : 0);
+        int max_page = rides.size() / QueueTimesMC.max_items + ((rides.size() % QueueTimesMC.max_items != 0) ? 1 : 0);
         if (nb_page < 1)
             nb_page = 1;
         if (nb_page > max_page)
             nb_page = max_page;
         String message = nb_page + "/" + max_page;
         List<Ride> list = new ArrayList<Ride>(rides.values());
-        for (int i = (nb_page - 1) * 10; i < nb_page * 10; i++) {
+        for (int i = (nb_page - 1) * QueueTimesMC.max_items; i < nb_page * QueueTimesMC.max_items; i++) {
             if (i < list.size()) {
                 message += "\n §a* " + list.get(i).toString();
             }

@@ -1,5 +1,7 @@
 package fr.mrunicorn.queuetimesmc.models;
 
+import fr.mrunicorn.queuetimesmc.controllers.ConfFile;
+
 public class Ride {
     private final Integer id;
     private final String name;
@@ -29,7 +31,7 @@ public class Ride {
         if (wait_time < 0) {
             return "Closed";
         }
-        return wait_time + "min";
+        return wait_time + ConfFile.min;
     }
 
     public String getName() {
@@ -38,8 +40,8 @@ public class Ride {
 
     public String getStatus() {
         if (wait_time < 0) {
-            return "Closed";
+            return ConfFile.close;
         }
-        return "Open";
+        return ConfFile.open;
     }
 }

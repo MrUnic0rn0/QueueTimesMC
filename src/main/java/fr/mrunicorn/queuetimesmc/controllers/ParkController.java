@@ -22,21 +22,14 @@ public class ParkController {
 
     private final static String queuetimes_api = "https://queue-times.com/parks";
     private final HashMap<Integer, Park> parks;
-    private final ArrayList<Integer> active_parks;
     private final QueueTimesCommand commandManager;
     private final ParksPlaceHolder pph;
 
-    private final static int max_items = 10;
     public static String prefix = "§1[§9QueueTimesMC§1] ";
 
     public ParkController() {
 
         parks = new HashMap<Integer, Park>();
-        active_parks = new ArrayList<Integer>();
-        active_parks.add(4);
-        active_parks.add(9);
-        active_parks.add(28);
-        active_parks.add(16);
 
         commandManager = new QueueTimesCommand(this);
         pph = new ParksPlaceHolder(this);
@@ -68,9 +61,9 @@ public class ParkController {
     }
 
     private void createUpdateParks() {
-        int delay = 6000 / (active_parks.size());
+        int delay = 6000 / (ConfFile.active_parks.size());
         int n = 1;
-        for (int i : active_parks) {
+        for (int i : ConfFile.active_parks) {
             Park park = getPark(i);
             if (park == null) continue;
             park.update();
@@ -121,13 +114,13 @@ public class ParkController {
     }
 
     public void listParks(Player player, int nb_page) {
-        int max_page = active_parks.size() / max_items + ((active_parks.size() % max_items != 0) ? 1 : 0);
+        int max_page = ConfFile.active_parks.size() / QueueTimesMC.max_items + ((ConfFile.active_parks.size() % QueueTimesMC.max_items != 0) ? 1 : 0);
         if (nb_page < 1) nb_page = 1;
         if (nb_page > max_page) nb_page = max_page;
         String message = prefix + "§eActivated Parks : §9" + nb_page + "/" + max_page;
-        for (int i = (nb_page - 1) * max_items; i < nb_page * max_items; i++) {
-            if (i < active_parks.size()) {
-                message += "\n §a* " + parks.get(active_parks.get(i)).toString();
+        for (int i = (nb_page - 1) * QueueTimesMC.max_items; i < nb_page * QueueTimesMC.max_items; i++) {
+            if (i < ConfFile.active_parks.size()) {
+                message += "\n §a* " + parks.get(ConfFile.active_parks.get(i)).toString();
             }
         }
         player.sendMessage(message);
@@ -138,7 +131,7 @@ public class ParkController {
     }
 
     public boolean isActivePark(int park_id) {
-        return active_parks.contains(park_id);
+        return ConfFile.active_parks.contains(park_id);
     }
 
     public String getQueueTime(int park_id, int ride_id) {
@@ -173,7 +166,7 @@ public class ParkController {
             Ride ride = getPark(park_id).getRide(ride_id);
             if (ride != null) {
                 int wait_time = ride.getWaitTime();
-                return Integer.toString(wait_time < 0 ? 0 : wait_time);
+                return Integer.toString(wait_time < 0 ? ConfFile.default_time : wait_time);
             }
             return "Ride " + ride_id + " Not Found";
         }
