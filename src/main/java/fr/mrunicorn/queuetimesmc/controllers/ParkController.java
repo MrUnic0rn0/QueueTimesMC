@@ -15,23 +15,22 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
-import java.util.ArrayList;
+import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 
 public class ParkController {
 
     private final static String queuetimes_api = "https://queue-times.com/parks";
     private final HashMap<Integer, Park> parks;
-    private final QueueTimesCommand commandManager;
     private final ParksPlaceHolder pph;
 
     public static String prefix = "§1[§9QueueTimesMC§1] ";
 
     public ParkController() {
 
-        parks = new HashMap<Integer, Park>();
+        parks = new HashMap<>();
 
-        commandManager = new QueueTimesCommand(this);
+        new QueueTimesCommand(this);
         pph = new ParksPlaceHolder(this);
 
         new BukkitRunnable() {
@@ -61,7 +60,7 @@ public class ParkController {
     }
 
     private void createUpdateParks() {
-        int delay = 6000 / (ConfFile.active_parks.size());
+        long delay = 6000L / (ConfFile.active_parks.size());
         int n = 1;
         for (int i : ConfFile.active_parks) {
             Park park = getPark(i);
@@ -104,7 +103,7 @@ public class ParkController {
             request.connect();
 
             JsonParser jp = new JsonParser();
-            root = jp.parse(new InputStreamReader((InputStream) request.getContent(), "UTF-8"));
+            root = jp.parse(new InputStreamReader((InputStream) request.getContent(), StandardCharsets.UTF_8));
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -117,13 +116,13 @@ public class ParkController {
         int max_page = ConfFile.active_parks.size() / QueueTimesMC.max_items + ((ConfFile.active_parks.size() % QueueTimesMC.max_items != 0) ? 1 : 0);
         if (nb_page < 1) nb_page = 1;
         if (nb_page > max_page) nb_page = max_page;
-        String message = prefix + "§eActivated Parks : §9" + nb_page + "/" + max_page;
+        StringBuilder message = new StringBuilder(prefix + "§eActivated Parks : §9" + nb_page + "/" + max_page);
         for (int i = (nb_page - 1) * QueueTimesMC.max_items; i < nb_page * QueueTimesMC.max_items; i++) {
             if (i < ConfFile.active_parks.size()) {
-                message += "\n §a* " + parks.get(ConfFile.active_parks.get(i)).toString();
+                message.append("\n §a* ").append(parks.get(ConfFile.active_parks.get(i)).toString());
             }
         }
-        player.sendMessage(message);
+        player.sendMessage(message.toString());
     }
 
     public Park getPark(int park_id) {
