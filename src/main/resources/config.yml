@@ -4,6 +4,8 @@
 
 close: "Closed"
 open: "Open"
-time_close: "Close"
-
 minutes: "min"
+
+default_time: 5
+
+active_parks: []
