@@ -33,6 +33,7 @@ public class ParkController {
         new QueueTimesCommand(this);
         pph = new ParksPlaceHolder(this);
 
+        ConfFile.load_conf();
         new BukkitRunnable() {
             @Override
             public void run() {
