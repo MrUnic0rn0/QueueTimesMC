@@ -6,7 +6,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public final class QueueTimesMC extends JavaPlugin {
     private ParkController controller;
-    public final static int max_items = 10;
     private static QueueTimesMC instance;
 
     @Override
