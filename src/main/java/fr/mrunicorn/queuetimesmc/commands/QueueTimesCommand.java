@@ -66,13 +66,14 @@ public class QueueTimesCommand implements CommandExecutor, TabExecutor {
                 int nb_page = 1;
                 if (args.length > 2) {
                     if (args[2].equalsIgnoreCase("set")) {
-                        if(args.length>3){
-                            if(args[3].equalsIgnoreCase("true")){
+                        if (args.length > 3) {
+                            if (args[3].equalsIgnoreCase("true")) {
                                 controller.addActivePark(park.getId());
-                            }else if(args[3].equalsIgnoreCase("false")){
+                                return true;
+                            } else if (args[3].equalsIgnoreCase("false")) {
                                 controller.removeActivePark(park.getId());
+                                return true;
                             }
-                            return true;
                         }
                     } else if (args[2].matches("-?(0|[1-9]\\d*)")) {
                         nb_page = Integer.parseInt(args[2]);

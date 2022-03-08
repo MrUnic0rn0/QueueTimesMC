@@ -63,10 +63,13 @@ public class ParkController {
     }
 
     public void createUpdateParks() {
-        for(BukkitRunnable task : parks_update_task.values()){
+        for (BukkitRunnable task : parks_update_task.values()) {
             task.cancel();
         }
         parks_update_task.clear();
+        if (ConfFile.active_parks.isEmpty())
+            return;
+
         long delay = 6000L / (ConfFile.active_parks.size());
         int n = 1;
         for (int i : ConfFile.active_parks) {
@@ -80,7 +83,7 @@ public class ParkController {
                 }
             };
             task.runTaskTimerAsynchronously(QueueTimesMC.getInstance(), n * delay, 6000L);
-            parks_update_task.put(park.getId(),task);
+            parks_update_task.put(park.getId(), task);
             n += 1;
         }
     }
@@ -123,8 +126,8 @@ public class ParkController {
 
     public void listParks(Player player, int nb_page) {
         int max_page = ConfFile.active_parks.size() / QueueTimesMC.max_items + ((ConfFile.active_parks.size() % QueueTimesMC.max_items != 0) ? 1 : 0);
-        if (nb_page < 1) nb_page = 1;
         if (nb_page > max_page) nb_page = max_page;
+        if (nb_page < 1) nb_page = 1;
         StringBuilder message = new StringBuilder(prefix + "§eActivated Parks : §9" + nb_page + "/" + max_page);
         for (int i = (nb_page - 1) * QueueTimesMC.max_items; i < nb_page * QueueTimesMC.max_items; i++) {
             if (i < ConfFile.active_parks.size()) {
@@ -182,7 +185,7 @@ public class ParkController {
     }
 
     public void addActivePark(int id) {
-        if(!isActivePark(id) && ConfFile.update_park(id,true)){
+        if (!isActivePark(id) && ConfFile.update_park(id, true)) {
             Park park = getPark(id);
             BukkitRunnable task = new BukkitRunnable() {
                 @Override
@@ -191,12 +194,12 @@ public class ParkController {
                 }
             };
             task.runTaskTimerAsynchronously(QueueTimesMC.getInstance(), 0, 6000L);
-            parks_update_task.put(park.getId(),task);
+            parks_update_task.put(park.getId(), task);
         }
     }
 
     public void removeActivePark(int id) {
-        if(!isActivePark(id) && ConfFile.update_park(id,false)){
+        if (!isActivePark(id) && ConfFile.update_park(id, false)) {
             parks_update_task.get(id).cancel();
             parks_update_task.remove(id);
         }

@@ -87,10 +87,11 @@ public class Park {
 
     public String getRideList(int nb_page) {
         int max_page = rides.size() / QueueTimesMC.max_items + ((rides.size() % QueueTimesMC.max_items != 0) ? 1 : 0);
-        if (nb_page < 1)
-            nb_page = 1;
+
         if (nb_page > max_page)
             nb_page = max_page;
+        if (nb_page < 1)
+            nb_page = 1;
         String message = nb_page + "/" + max_page;
         List<Ride> list = new ArrayList<Ride>(rides.values());
         for (int i = (nb_page - 1) * QueueTimesMC.max_items; i < nb_page * QueueTimesMC.max_items; i++) {

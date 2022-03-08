@@ -30,9 +30,11 @@ public class ConfFile {
     public static boolean update_park(int park_id, boolean add){
         if(add && !active_parks.contains(park_id)){
             active_parks.add(park_id);
+            save_conf();
             return true;
         }else if(!add && active_parks.contains(park_id)){
             active_parks.remove(active_parks.indexOf(park_id));
+            save_conf();
             return true;
         }
         return false;
