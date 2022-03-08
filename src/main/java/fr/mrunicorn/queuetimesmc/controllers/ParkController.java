@@ -22,6 +22,7 @@ public class ParkController {
 
     private final static String queuetimes_api = "https://queue-times.com/parks";
     private final HashMap<Integer, Park> parks;
+    private final HashMap<Integer, BukkitRunnable> parks_update_task;
     private final ParksPlaceHolder pph;
 
     public static String prefix = "§1[§9QueueTimesMC§1] ";
@@ -29,6 +30,7 @@ public class ParkController {
     public ParkController() {
 
         parks = new HashMap<>();
+        parks_update_task = new HashMap<>();
 
         new QueueTimesCommand(this);
         pph = new ParksPlaceHolder(this);
@@ -60,19 +62,25 @@ public class ParkController {
         createUpdateParks();
     }
 
-    private void createUpdateParks() {
+    public void createUpdateParks() {
+        for(BukkitRunnable task : parks_update_task.values()){
+            task.cancel();
+        }
+        parks_update_task.clear();
         long delay = 6000L / (ConfFile.active_parks.size());
         int n = 1;
         for (int i : ConfFile.active_parks) {
             Park park = getPark(i);
             if (park == null) continue;
             park.update();
-            new BukkitRunnable() {
+            BukkitRunnable task = new BukkitRunnable() {
                 @Override
                 public void run() {
                     park.update();
                 }
-            }.runTaskTimerAsynchronously(QueueTimesMC.getInstance(), n * delay, 6000L);
+            };
+            task.runTaskTimerAsynchronously(QueueTimesMC.getInstance(), n * delay, 6000L);
+            parks_update_task.put(park.getId(),task);
             n += 1;
         }
     }
@@ -171,5 +179,26 @@ public class ParkController {
             return "Ride " + ride_id + " Not Found";
         }
         return "Park " + park_id + " Not Active/Found";
+    }
+
+    public void addActivePark(int id) {
+        if(!isActivePark(id) && ConfFile.update_park(id,true)){
+            Park park = getPark(id);
+            BukkitRunnable task = new BukkitRunnable() {
+                @Override
+                public void run() {
+                    park.update();
+                }
+            };
+            task.runTaskTimerAsynchronously(QueueTimesMC.getInstance(), 0, 6000L);
+            parks_update_task.put(park.getId(),task);
+        }
+    }
+
+    public void removeActivePark(int id) {
+        if(!isActivePark(id) && ConfFile.update_park(id,false)){
+            parks_update_task.get(id).cancel();
+            parks_update_task.remove(id);
+        }
     }
 }
