@@ -5,13 +5,15 @@ import fr.mrunicorn.queuetimesmc.controllers.ConfFile;
 public class Ride {
     private final Integer id;
     private final String name;
+    private final Park park;
     private int wait_time;
 
-    public Ride(int id, String name, int wait_time) {
+    public Ride(int id, String name, int wait_time, Park park) {
         this.id = id;
         name = name.replace('\u00A0', ' ').trim();
         this.name = name;
         this.wait_time = wait_time;
+        this.park = park;
     }
 
     public void setWaitTime(int wait_time) {
@@ -43,5 +45,13 @@ public class Ride {
             return ConfFile.close;
         }
         return ConfFile.open;
+    }
+
+    public String getPlaceHolder(){
+        return "%qt_"+park.getId()+"_"+getId()+"%";
+    }
+
+    private int getId() {
+        return this.id;
     }
 }

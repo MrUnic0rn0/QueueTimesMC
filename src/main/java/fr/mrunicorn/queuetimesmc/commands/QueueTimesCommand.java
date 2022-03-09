@@ -1,10 +1,8 @@
 package fr.mrunicorn.queuetimesmc.commands;
 
 import fr.mrunicorn.queuetimesmc.QueueTimesMC;
-import fr.mrunicorn.queuetimesmc.controllers.ConfFile;
 import fr.mrunicorn.queuetimesmc.controllers.ParkController;
 import fr.mrunicorn.queuetimesmc.models.Park;
-import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
@@ -12,12 +10,11 @@ import org.bukkit.command.TabExecutor;
 import org.bukkit.entity.Player;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class QueueTimesCommand implements CommandExecutor, TabExecutor {
 
-    private ParkController controller;
+    private final ParkController controller;
 
     public QueueTimesCommand(ParkController controller) {
 
@@ -80,7 +77,7 @@ public class QueueTimesCommand implements CommandExecutor, TabExecutor {
                     }
                 }
                 if (controller.isActivePark(park_id)) {
-                    player.sendMessage(ParkController.prefix + "§e " + park.getName() + " : " + park.getRideList(nb_page));
+                    park.sendRideList(player,nb_page);
                 } else {
                     player.sendMessage(ParkController.prefix + "§cPark not activated!");
                 }

@@ -9,7 +9,7 @@ public class ConfFile {
 
     public static String open="Open", close = "Closed",min="min";
     public static int default_time = 5;
-    public static ArrayList<Integer> active_parks = new ArrayList<Integer>();
+    public static ArrayList<Integer> active_parks = new ArrayList<>();
 
     public static void load_conf(){
         QueueTimesMC.getInstance().saveDefaultConfig();
@@ -33,7 +33,7 @@ public class ConfFile {
             save_conf();
             return true;
         }else if(!add && active_parks.contains(park_id)){
-            active_parks.remove(active_parks.indexOf(park_id));
+            active_parks.remove(park_id);
             save_conf();
             return true;
         }
