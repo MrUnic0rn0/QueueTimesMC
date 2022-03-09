@@ -14,7 +14,7 @@ The data is extracted every 5 minutes from the [QueueTimesAPI](https://queue-tim
 
 ## Wiki
  - [Commands](wiki/commands.md)
- - [PlaceHolders](wiki/placeholders.md)
+ - [PlaceHolder](wiki/placeholder.md)
  - [Parks Available](wiki/parks_available.md)
 
 ## Quick Links
