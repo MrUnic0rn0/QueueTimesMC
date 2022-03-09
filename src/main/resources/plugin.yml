@@ -1,11 +1,11 @@
-name: QueueTimesMC
+name: '${project.name}'
 version: '${project.version}'
 main: fr.mrunicorn.queuetimesmc.QueueTimesMC
 api-version: 1.13
 
 depend: [ PlaceholderAPI ]
 authors: [ Mr_Unicorn_ ]
-description: Real-Time Queue TIme from all your favortie Theme Parks
+description: Real-Time Queue Times from all your favorites Theme Parks.
 
 commands:
   queuetimes:

@@ -15,32 +15,27 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
-import java.util.ArrayList;
+import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 
 public class ParkController {
 
     private final static String queuetimes_api = "https://queue-times.com/parks";
     private final HashMap<Integer, Park> parks;
-    private final ArrayList<Integer> active_parks;
-    private final QueueTimesCommand commandManager;
+    private final HashMap<Integer, BukkitRunnable> parks_update_task;
     private final ParksPlaceHolder pph;
 
-    private final static int max_items = 10;
     public static String prefix = "§1[§9QueueTimesMC§1] ";
 
     public ParkController() {
 
-        parks = new HashMap<Integer, Park>();
-        active_parks = new ArrayList<Integer>();
-        active_parks.add(4);
-        active_parks.add(9);
-        active_parks.add(28);
-        active_parks.add(16);
+        parks = new HashMap<>();
+        parks_update_task = new HashMap<>();
 
-        commandManager = new QueueTimesCommand(this);
+        new QueueTimesCommand(this);
         pph = new ParksPlaceHolder(this);
 
+        ConfFile.load_conf();
         new BukkitRunnable() {
             @Override
             public void run() {
@@ -67,19 +62,28 @@ public class ParkController {
         createUpdateParks();
     }
 
-    private void createUpdateParks() {
-        int delay = 6000 / (active_parks.size());
+    public void createUpdateParks() {
+        for (BukkitRunnable task : parks_update_task.values()) {
+            task.cancel();
+        }
+        parks_update_task.clear();
+        if (ConfFile.active_parks.isEmpty())
+            return;
+
+        long delay = 6000L / (ConfFile.active_parks.size());
         int n = 1;
-        for (int i : active_parks) {
+        for (int i : ConfFile.active_parks) {
             Park park = getPark(i);
             if (park == null) continue;
             park.update();
-            new BukkitRunnable() {
+            BukkitRunnable task = new BukkitRunnable() {
                 @Override
                 public void run() {
                     park.update();
                 }
-            }.runTaskTimerAsynchronously(QueueTimesMC.getInstance(), n * delay, 6000L);
+            };
+            task.runTaskTimerAsynchronously(QueueTimesMC.getInstance(), n * delay, 6000L);
+            parks_update_task.put(park.getId(), task);
             n += 1;
         }
     }
@@ -111,7 +115,7 @@ public class ParkController {
             request.connect();
 
             JsonParser jp = new JsonParser();
-            root = jp.parse(new InputStreamReader((InputStream) request.getContent(), "UTF-8"));
+            root = jp.parse(new InputStreamReader((InputStream) request.getContent(), StandardCharsets.UTF_8));
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -121,16 +125,16 @@ public class ParkController {
     }
 
     public void listParks(Player player, int nb_page) {
-        int max_page = active_parks.size() / max_items + ((active_parks.size() % max_items != 0) ? 1 : 0);
-        if (nb_page < 1) nb_page = 1;
+        int max_page = ConfFile.active_parks.size() / QueueTimesMC.max_items + ((ConfFile.active_parks.size() % QueueTimesMC.max_items != 0) ? 1 : 0);
         if (nb_page > max_page) nb_page = max_page;
-        String message = prefix + "§eActivated Parks : §9" + nb_page + "/" + max_page;
-        for (int i = (nb_page - 1) * max_items; i < nb_page * max_items; i++) {
-            if (i < active_parks.size()) {
-                message += "\n §a* " + parks.get(active_parks.get(i)).toString();
+        if (nb_page < 1) nb_page = 1;
+        StringBuilder message = new StringBuilder(prefix + "§eActivated Parks : §9" + nb_page + "/" + max_page);
+        for (int i = (nb_page - 1) * QueueTimesMC.max_items; i < nb_page * QueueTimesMC.max_items; i++) {
+            if (i < ConfFile.active_parks.size()) {
+                message.append("\n §a* ").append(parks.get(ConfFile.active_parks.get(i)).toString());
             }
         }
-        player.sendMessage(message);
+        player.sendMessage(message.toString());
     }
 
     public Park getPark(int park_id) {
@@ -138,7 +142,7 @@ public class ParkController {
     }
 
     public boolean isActivePark(int park_id) {
-        return active_parks.contains(park_id);
+        return ConfFile.active_parks.contains(park_id);
     }
 
     public String getQueueTime(int park_id, int ride_id) {
@@ -173,10 +177,31 @@ public class ParkController {
             Ride ride = getPark(park_id).getRide(ride_id);
             if (ride != null) {
                 int wait_time = ride.getWaitTime();
-                return Integer.toString(wait_time < 0 ? 0 : wait_time);
+                return Integer.toString(wait_time < 0 ? ConfFile.default_time : wait_time);
             }
             return "Ride " + ride_id + " Not Found";
         }
         return "Park " + park_id + " Not Active/Found";
+    }
+
+    public void addActivePark(int id) {
+        if (!isActivePark(id) && ConfFile.update_park(id, true)) {
+            Park park = getPark(id);
+            BukkitRunnable task = new BukkitRunnable() {
+                @Override
+                public void run() {
+                    park.update();
+                }
+            };
+            task.runTaskTimerAsynchronously(QueueTimesMC.getInstance(), 0, 6000L);
+            parks_update_task.put(park.getId(), task);
+        }
+    }
+
+    public void removeActivePark(int id) {
+        if (!isActivePark(id) && ConfFile.update_park(id, false)) {
+            parks_update_task.get(id).cancel();
+            parks_update_task.remove(id);
+        }
     }
 }

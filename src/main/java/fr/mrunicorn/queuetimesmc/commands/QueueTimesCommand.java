@@ -1,6 +1,7 @@
 package fr.mrunicorn.queuetimesmc.commands;
 
 import fr.mrunicorn.queuetimesmc.QueueTimesMC;
+import fr.mrunicorn.queuetimesmc.controllers.ConfFile;
 import fr.mrunicorn.queuetimesmc.controllers.ParkController;
 import fr.mrunicorn.queuetimesmc.models.Park;
 import org.bukkit.Bukkit;
@@ -19,10 +20,6 @@ public class QueueTimesCommand implements CommandExecutor, TabExecutor {
     private ParkController controller;
 
     public QueueTimesCommand(ParkController controller) {
-
-        if (Bukkit.getPluginManager().getPlugin("PlaceholderAPI") != null) {
-
-        }
 
         this.controller = controller;
 
@@ -69,7 +66,15 @@ public class QueueTimesCommand implements CommandExecutor, TabExecutor {
                 int nb_page = 1;
                 if (args.length > 2) {
                     if (args[2].equalsIgnoreCase("set")) {
-                        return true;
+                        if (args.length > 3) {
+                            if (args[3].equalsIgnoreCase("true")) {
+                                controller.addActivePark(park.getId());
+                                return true;
+                            } else if (args[3].equalsIgnoreCase("false")) {
+                                controller.removeActivePark(park.getId());
+                                return true;
+                            }
+                        }
                     } else if (args[2].matches("-?(0|[1-9]\\d*)")) {
                         nb_page = Integer.parseInt(args[2]);
                     }
