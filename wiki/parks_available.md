@@ -1,4 +1,4 @@
-<a href="../README.md">&laquo; Back</a>
+<a href="README.md">&laquo; Back</a>
 # :roller_coaster: Parks Available
 <details>
 <summary>🇧🇪 Belgium</summary>
