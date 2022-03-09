@@ -172,12 +172,12 @@ public class ParkController {
         return "Park " + park_id + " Not Active/Found";
     }
 
-    public String getQueueTimeNumber(int park_id, int ride_id) {
+    public String getQueueTimeDefault(int park_id, int ride_id) {
         if (isActivePark(park_id)) {
             Ride ride = getPark(park_id).getRide(ride_id);
             if (ride != null) {
                 int wait_time = ride.getWaitTime();
-                return Integer.toString(wait_time < 0 ? ConfFile.default_time : wait_time);
+                return Integer.toString(wait_time < 0 ? ConfFile.default_time : wait_time) + ConfFile.min;
             }
             return "Ride " + ride_id + " Not Found";
         }

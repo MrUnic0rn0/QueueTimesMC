@@ -41,11 +41,11 @@ public class ParksPlaceHolder extends PlaceholderExpansion {
                     } else if (args[2].equalsIgnoreCase("status")) {
                         return controller.getRideStatus(Integer.parseInt(args[0]), Integer.parseInt(args[1]));
                     } else if (args[2].equalsIgnoreCase("time")) {
-                        return controller.getQueueTimeNumber(Integer.parseInt(args[0]), Integer.parseInt(args[1]));
+                        return controller.getQueueTime(Integer.parseInt(args[0]), Integer.parseInt(args[1]));
                     }
                 }
 
-                return controller.getQueueTime(Integer.parseInt(args[0]), Integer.parseInt(args[1]));
+                return controller.getQueueTimeDefault(Integer.parseInt(args[0]), Integer.parseInt(args[1]));
             }
         }
         return null;

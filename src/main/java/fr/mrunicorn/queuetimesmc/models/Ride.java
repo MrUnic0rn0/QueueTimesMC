@@ -29,7 +29,7 @@ public class Ride {
 
     public String getStrWaitTime() {
         if (wait_time < 0) {
-            return "Closed";
+            return 0  + ConfFile.min;
         }
         return wait_time + ConfFile.min;
     }
