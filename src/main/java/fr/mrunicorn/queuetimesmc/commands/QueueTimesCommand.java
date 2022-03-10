@@ -83,7 +83,7 @@ public class QueueTimesCommand implements CommandExecutor, TabExecutor {
                     }
                 }
                 if (controller.isActivePark(park_id)) {
-                    player.sendMessage(ParkController.prefix + "§e " + park.getName() + " : " + park.getRideList(nb_page));
+                    park.sendRideList(player,nb_page);
                 } else {
                     player.sendMessage(ParkController.prefix + "§cPark not activated!");
                 }

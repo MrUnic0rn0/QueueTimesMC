@@ -31,6 +31,7 @@ if not os.path.isdir('../parks'):
     os.makedirs('../parks')
 
 f = open("../parks_available.md", "w",encoding="utf-8")
+f.write('<a href="README.md">&laquo; Back</a>')
 f.write("# :roller_coaster: Parks Available")
 
 r = requests.get("https://queue-times.com/parks.json")

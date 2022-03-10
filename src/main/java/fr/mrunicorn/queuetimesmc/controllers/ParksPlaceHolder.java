@@ -30,9 +30,9 @@ public class ParksPlaceHolder extends PlaceholderExpansion {
 
     @Override
     public String onRequest(OfflinePlayer player, @NotNull String params) {
-        if (params != null) {
-            String args[] = params.split("_");
-            if (args.length == 1 && args[0].matches("-?(0|[1-9]\\d*)")) {
+        String[] args;
+        args = params.split("_");
+        if (args.length == 1 && args[0].matches("-?(0|[1-9]\\d*)")) {
                 return controller.getPark(Integer.parseInt(args[0])).getName();
             } else if (args.length >= 2 && args[0].matches("-?(0|[1-9]\\d*)") & args[1].matches("-?(0|[1-9]\\d*)")) {
                 if (args.length == 3) {
@@ -41,13 +41,12 @@ public class ParksPlaceHolder extends PlaceholderExpansion {
                     } else if (args[2].equalsIgnoreCase("status")) {
                         return controller.getRideStatus(Integer.parseInt(args[0]), Integer.parseInt(args[1]));
                     } else if (args[2].equalsIgnoreCase("time")) {
-                        return controller.getQueueTimeNumber(Integer.parseInt(args[0]), Integer.parseInt(args[1]));
+                        return controller.getQueueTime(Integer.parseInt(args[0]), Integer.parseInt(args[1]));
                     }
                 }
 
-                return controller.getQueueTime(Integer.parseInt(args[0]), Integer.parseInt(args[1]));
+                return controller.getQueueTimeDefault(Integer.parseInt(args[0]), Integer.parseInt(args[1]));
             }
-        }
-        return null;
+            return null;
     }
 }

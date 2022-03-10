@@ -2,15 +2,10 @@ package fr.mrunicorn.queuetimesmc.models;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import com.google.gson.JsonParser;
 import fr.mrunicorn.queuetimesmc.QueueTimesMC;
 import fr.mrunicorn.queuetimesmc.controllers.ParkController;
+import org.bukkit.entity.Player;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.net.URL;
-import java.net.URLConnection;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
@@ -56,7 +51,7 @@ public class Park {
 
         if (!rides.containsKey(ride_id)) {
             String ride_name = ride_obj.get("name").getAsString();
-            Ride new_ride = new Ride(ride_id, ride_name, is_open ? wait_time : -1);
+            Ride new_ride = new Ride(ride_id, ride_name, is_open ? wait_time : -1,this);
             rides.put(ride_id, new_ride);
         } else {
             rides.get(ride_id).setWaitTime(is_open ? wait_time : -1);
@@ -85,20 +80,21 @@ public class Park {
         return getId() + " : " + getName();
     }
 
-    public String getRideList(int nb_page) {
+    public void sendRideList(Player player , int nb_page) {
         int max_page = rides.size() / QueueTimesMC.max_items + ((rides.size() % QueueTimesMC.max_items != 0) ? 1 : 0);
 
         if (nb_page > max_page)
             nb_page = max_page;
         if (nb_page < 1)
             nb_page = 1;
-        String message = nb_page + "/" + max_page;
-        List<Ride> list = new ArrayList<Ride>(rides.values());
+        player.sendMessage(ParkController.prefix + "§e " + this.getName() + " : " + nb_page + "/" + max_page );
+        List<Ride> list = new ArrayList<>(rides.values());
         for (int i = (nb_page - 1) * QueueTimesMC.max_items; i < nb_page * QueueTimesMC.max_items; i++) {
             if (i < list.size()) {
-                message += "\n §a* " + list.get(i).toString();
+                Ride r =  list.get(i);
+                String message = "{text:\""+"\n §a* " +r.toString()+"\",hoverEvent:{action:show_text,value:\"Click to copy!\"},clickEvent:{action:copy_to_clipboard,value:\""+r.getPlaceHolder()+"\"}}";
+                player.sendRawMessage(  message );
             }
         }
-        return message;
     }
 }
