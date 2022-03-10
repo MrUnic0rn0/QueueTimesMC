@@ -1,10 +1,8 @@
 package fr.mrunicorn.queuetimesmc.commands;
 
 import fr.mrunicorn.queuetimesmc.QueueTimesMC;
-import fr.mrunicorn.queuetimesmc.controllers.ConfFile;
 import fr.mrunicorn.queuetimesmc.controllers.ParkController;
 import fr.mrunicorn.queuetimesmc.models.Park;
-import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
@@ -12,12 +10,11 @@ import org.bukkit.command.TabExecutor;
 import org.bukkit.entity.Player;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class QueueTimesCommand implements CommandExecutor, TabExecutor {
 
-    private ParkController controller;
+    private final ParkController controller;
 
     public QueueTimesCommand(ParkController controller) {
 
@@ -51,11 +48,17 @@ public class QueueTimesCommand implements CommandExecutor, TabExecutor {
 
     private boolean commandPark(Player player, String[] args) {
         if (args.length > 1) {
-            if (args[1].equalsIgnoreCase("list")) {
+            if (args[1].toLowerCase().contains("list")) {
                 int nb_page = 1;
                 if (args.length > 2 && args[2].matches("-?(0|[1-9]\\d*)"))
                     nb_page = Integer.parseInt(args[2]);
-                this.controller.listParks(player, nb_page);
+                if(args[1].equalsIgnoreCase("listall")){
+                    this.controller.listParks(player, nb_page);
+
+                }else{
+                    this.controller.listActiveParks(player, nb_page);
+
+                }
             } else if (args[1].matches("-?(0|[1-9]\\d*)")) {
                 int park_id = Integer.parseInt(args[1]);
                 Park park = controller.getPark(park_id);
@@ -99,8 +102,9 @@ public class QueueTimesCommand implements CommandExecutor, TabExecutor {
         } else if (args.length > 1 && args[0].equalsIgnoreCase("park")) {
             if (args.length == 2) {
                 completions.add("list");
+                completions.add("listall");
             } else if (args[1].matches("-?(0|[1-9]\\d*)")) {
-                if (!args[1].equalsIgnoreCase("list")) {
+                if (!args[1].toLowerCase().contains("list")) {
                     if (args.length == 3) {
                         completions.add("set");
                     } else if (args.length == 4 && args[2].equalsIgnoreCase("set")) {
