@@ -16,7 +16,7 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
 import java.nio.charset.StandardCharsets;
-import java.util.HashMap;
+import java.util.*;
 
 public class ParkController {
 
@@ -125,6 +125,21 @@ public class ParkController {
     }
 
     public void listParks(Player player, int nb_page) {
+        int max_page = parks.size() / QueueTimesMC.max_items + ((parks.size() % QueueTimesMC.max_items != 0) ? 1 : 0);
+        if (nb_page > max_page) nb_page = max_page;
+        if (nb_page < 1) nb_page = 1;
+        List<Integer> parks_temp = new ArrayList<>(parks.keySet());
+        Collections.sort(parks_temp);
+        StringBuilder message = new StringBuilder(prefix + "§eParks : §9" + nb_page + "/" + max_page);
+        for (int i = (nb_page - 1) * QueueTimesMC.max_items; i < nb_page * QueueTimesMC.max_items; i++) {
+            if (i < parks.size()) {
+                message.append("\n §a* ").append(parks.get(parks_temp.get(i)).toString());
+            }
+        }
+        player.sendMessage(message.toString());
+    }
+
+    public void listActiveParks(Player player, int nb_page) {
         int max_page = ConfFile.active_parks.size() / QueueTimesMC.max_items + ((ConfFile.active_parks.size() % QueueTimesMC.max_items != 0) ? 1 : 0);
         if (nb_page > max_page) nb_page = max_page;
         if (nb_page < 1) nb_page = 1;
