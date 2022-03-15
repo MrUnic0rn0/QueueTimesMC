@@ -1,5 +1,5 @@
 [&laquo; Back](README.md)
-# :memo: Placeholder
+# :label: Placeholder
 
 **Attention:**  
 Only works with active parks (use `/qt park <id_park> set true` to add an active park)
